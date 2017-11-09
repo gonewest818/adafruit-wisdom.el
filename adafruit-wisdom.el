@@ -37,7 +37,7 @@
 (defun adafruit-wisdom-get ()
   "Fetch the quotes.xml from adafruit.com and select one at random."
   (let* ((root (with-temp-buffer
-                 (url-insert-file-contents adafruit-quote-url)
+                 (url-insert-file-contents adafruit-wisdom-quote-url)
                  (xml-parse-region (point-min) (point-max))))
          ;; parse the following form:
          ;; ((rss (channel (item ...) (item ...) (item ...) ...)))
