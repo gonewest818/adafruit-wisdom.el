@@ -31,12 +31,11 @@
 (require 'url-vars)
 (require 'xml)
 
-(defconst adafruit-quote-url "https://www.adafruit.com/feed/quotes.xml"
-  "URL for the RSS quote feed on Adafruit.com")
+(defconst adafruit-wisdom-quote-url "https://www.adafruit.com/feed/quotes.xml"
+  "URL for the RSS quote feed on Adafruit.com.")
 
 (defun adafruit-wisdom-get ()
-  "Get the entire adafruit.com quote feed, and select one at random
-returning only the text of the quote as a string."
+  "Fetch the quotes.xml from adafruit.com and select one at random."
   (let* ((root (with-temp-buffer
                  (url-insert-file-contents adafruit-quote-url)
                  (xml-parse-region (point-min) (point-max))))
@@ -59,7 +58,7 @@ buffer rather than shown in the minibuffer."
   (interactive "P")
   (let ((quote (adafruit-wisdom-get)))
     (if (zerop (length quote))
-        (error "couldn't get a quote from adafruit.")
+        (error "Couldn't retrieve a quote from adafruit")
       (if insert
           (insert quote)
         (message "%s" quote)))))
