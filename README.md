@@ -21,3 +21,7 @@ Insert a random quote into current buffer
 
     C-u M-x adafruit-wisdom
 
+If you prefer invoking with a hotkey
+
+    (global-set-key (kbd "C-c aw")  'adafruit-wisdom)
+
