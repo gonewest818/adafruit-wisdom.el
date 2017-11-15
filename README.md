@@ -2,6 +2,8 @@
 
 Pulls a random quote from adafruit.com and displays it. 
 
+[![MELPA](https://melpa.org/packages/adafruit-wisdom-badge.svg)](https://melpa.org/#/adafruit-wisdom)
+
 ## Description
 
 I've always enjoyed the engineering quotes found at the footer of
