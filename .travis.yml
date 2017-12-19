@@ -23,8 +23,6 @@ env:
     - PATH=$HOME/local/bin:$HOME/local/evm/bin:$HOME/local/cask/bin:$PATH
   matrix:
     - EMACS_BINARY=emacs-24.5-travis
-    - EMACS_BINARY=emacs-25.1-travis
-    - EMACS_BINARY=emacs-25.2-travis
     - EMACS_BINARY=emacs-25.3-travis
     - EMACS_BINARY=emacs-26-pretest-travis
     - EMACS_BINARY=emacs-git-snapshot-travis
