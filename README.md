@@ -2,6 +2,7 @@
 
 Pulls a random quote from adafruit.com and displays it. 
 
+[![MELPA Stable](https://stable.melpa.org/packages/adafruit-wisdom-badge.svg)](https://stable.melpa.org/#/adafruit-wisdom)
 [![MELPA](https://melpa.org/packages/adafruit-wisdom-badge.svg)](https://melpa.org/#/adafruit-wisdom)
 [![Build Status](https://travis-ci.org/gonewest818/adafruit-wisdom.el.svg?branch=master)](https://travis-ci.org/gonewest818/adafruit-wisdom.el)
 
