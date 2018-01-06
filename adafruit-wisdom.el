@@ -55,8 +55,9 @@ Returns the parsed XML."
         (url-insert-file-contents adafruit-wisdom-quote-url)
         (xml-parse-region (point-min) (point-max))))))
 
+;;;###autoload
 (defun adafruit-wisdom-select ()
-  "Select a quote at random."
+  "Select a quote at random and return as a string."
   (let* ((root  (adafruit-wisdom-cached-get))
          ;; parse assuming the following RSS format:
          ;; ((rss (channel (item ...) (item ...) (item ...) ...)))

@@ -1,14 +1,13 @@
-#!/bin/bash
+#!/bin/bash -x
 
 # Install cask for Travis CI
 # or if already installed, then check for updates
 
-set -x
-
 WORKDIR=${HOME}/local
 CASKDIR=$WORKDIR/cask
+SCRIPTDIR=`dirname $(readlink -f $0)`
 
-. travis-ci/retry.sh
+. $SCRIPTDIR/retry.sh
 
 cask_upgrade_cask_or_reset() {
     cask upgrade-cask || { rm -rf $HOME/.emacs.d/.cask && false; }
