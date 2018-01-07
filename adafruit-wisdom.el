@@ -28,6 +28,7 @@
 
 ;;; Code:
 
+(require 'dom)
 (require 'url-vars)
 (require 'xml)
 
@@ -57,18 +58,17 @@ Returns the parsed XML."
 
 ;;;###autoload
 (defun adafruit-wisdom-select ()
-  "Select a quote at random and return as a string."
-  (let* ((root  (adafruit-wisdom-cached-get))
-         ;; parse assuming the following RSS format:
-         ;; ((rss (channel (item ...) (item ...) (item ...) ...)))
-         ;; where each item contains (item (title nil "the quote") ...)
-         ;; and we need just "the quote"
-         (rss   (car root))
-         (chan  (car (xml-get-children rss 'channel)))
-         (items (xml-get-children chan 'item))
+  "Select a quote at random and return as a string.
+
+Parse assuming the following RSS format:
+     ((rss (channel (item ...) (item ...) (item ...) ...)))
+where each item contains:
+     (item (title nil \"the quote\") ...)
+and we  need just \"the quote\"."
+  (let* ((items (dom-by-tag (adafruit-wisdom-cached-get) 'item))
          (pick  (nth (random (length items)) items))
-         (title (car (xml-get-children pick 'title))))
-    (car (last title))))
+         (title (dom-text (car (dom-by-tag pick 'title)))))
+    title))
 
 ;;;###autoload
 (defun adafruit-wisdom (&optional insert)
