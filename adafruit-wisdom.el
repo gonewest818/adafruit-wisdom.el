@@ -1,10 +1,10 @@
 ;;; adafruit-wisdom.el --- Get/display adafruit.com quotes
 
 ;; Author: Neil Okamoto <neil.okamoto+melpa@gmail.com>
-;; Version: 0.2
+;; Version: 0.2.1
 ;; Keywords: games
 ;; URL: https://github.com/gonewest818/adafruit-wisdom.el
-;; Package-Requires: ((emacs "24"))
+;; Package-Requires: ((emacs "25"))
 
 ;; This program is free software: you can redistribute it and/or modify it
 ;; under the terms of the GNU General Public License as published by the
@@ -29,7 +29,7 @@
 ;;; Code:
 
 (require 'dom)
-(require 'url-vars)
+(require 'url)
 (require 'xml)
 
 (defconst adafruit-wisdom-quote-url "https://www.adafruit.com/feed/quotes.xml"
