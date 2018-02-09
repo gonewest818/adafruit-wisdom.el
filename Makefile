@@ -1,5 +1,5 @@
 export EMACS ?= emacs
-export BATCH = --batch -q -l emacs/init.el
+export BATCH = --batch -q -l .emacs/init.el
 
 ELS = $(wildcard *.el)
 OBJECTS = $(ELS:.el=.elc)
@@ -20,4 +20,4 @@ clean:
 	rm -f $(OBJECTS)
 
 cleanelpa: clean
-	rm -rf emacs/elpa emacs/quelpa .elpa
+	rm -rf .emacs/elpa .emacs/quelpa .emacs/.emacs-custom.el .elpa
