@@ -1,33 +1,33 @@
 version: 2.0
 
-# Describe the "default-job" for use below
-default: &default-job
+# Default actions to perform on each Emacs version
+default: &default-steps
   steps:
     - checkout
     - run: make version
     - run: make lint
 
-# Enumerate jobs for the Emacs versions
+# Enumerated list of Emacs versions
 jobs:
   test-emacs-25:
     docker:
       - image: silex/emacs:25
         entrypoint: bash
-    <<: *default-job
+    <<: *default-steps
 
   test-emacs-26:
     docker:
       - image: silex/emacs:26.0
         entrypoint: bash
-    <<: *default-job
+    <<: *default-steps
 
   test-emacs-master:
     docker:
       - image: silex/emacs:master
         entrypoint: bash
-    <<: *default-job
+    <<: *default-steps
 
-# Run the Emacs jobs in parallel
+# Executing in parallel
 workflows:
   version: 2
   ci-test-matrix:
