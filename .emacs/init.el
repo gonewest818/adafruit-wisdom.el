@@ -1,4 +1,4 @@
-;;; Emacs initialization for isolated package testing
+;;; init.el - Emacs initialization for isolated package testing
 ;;
 ;; Usage: emacs -q -l $project_root/emacs/init.el
 
@@ -11,23 +11,49 @@
 (setq custom-file (concat user-emacs-directory ".emacs-custom.el"))
 (when (file-readable-p custom-file) (load custom-file))
 
-;; Configure package
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Configure melpa and melpa-stable
+
 (require 'package)
 (add-to-list 'package-archives
              '("melpa-stable" . "https://stable.melpa.org/packages/") t)
 (add-to-list 'package-archives
              '("melpa"        . "https://melpa.org/packages/") t)
+(setq package-enable-at-startup nil)
 (package-initialize)
+(when (not package-archive-contents)
+    (package-refresh-contents))
 
-;; Bootstrap `use-package' and `quelpa-use-package'
-(unless (require 'quelpa nil t)
-  (with-temp-buffer
-    (url-insert-file-contents "https://raw.github.com/quelpa/quelpa/master/bootstrap.el")
-    (eval-buffer)))
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Bootstrap `use-package'
 
-(quelpa '(quelpa-use-package
-          :fetcher github
-          :repo "quelpa/quelpa-use-package"))
-(require 'quelpa-use-package)
+;; By default these will install from melpa anyway, but using
+;; `package-pinned-packages' allows one to pin to melpa-stable
+;; if necessary
+
+(setq package-pinned-packages
+      '((bind-key           . "melpa")
+        (diminish           . "melpa")
+        (use-package        . "melpa")))
+
+(dolist (p (mapcar 'car package-pinned-packages))
+  (unless (package-installed-p p)
+    (package-install p)))
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Install `quelpa' and `quelpa-use-package'
+
+(use-package quelpa
+  ;; :pin melpa-stable
+  :ensure t)
+
+(use-package quelpa-use-package
+  ;; :pin melpa-stable
+  :ensure t)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Load project dependencies from elsewhere
 
 (load (concat user-emacs-directory "dependencies.el"))
+
+;;; init.el ends here
