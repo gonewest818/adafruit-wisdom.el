@@ -4,7 +4,7 @@ export BATCH = --batch -q -l .emacs/init.el
 ELS = $(wildcard *.el)
 OBJECTS = $(ELS:.el=.elc)
 
-.PHONY: version lint clean cleanelpa
+.PHONY: version lint test clean cleanelpa
 
 .elpa:
 	$(EMACS) $(BATCH)
@@ -15,6 +15,9 @@ version: .elpa
 
 lint: .elpa
 	$(EMACS) $(BATCH) -f elisp-lint-files-batch $(ELS)
+
+test: .elpa
+	$(EMACS) $(BATCH) -f buttercup-run-discover
 
 clean:
 	rm -f $(OBJECTS)

@@ -8,8 +8,16 @@
 
 (setq user-init-file (or load-file-name (buffer-file-name)))
 (setq user-emacs-directory (file-name-directory user-init-file))
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Make sure customize data doesn't land in this file
+
 (setq custom-file (concat user-emacs-directory ".emacs-custom.el"))
 (when (file-readable-p custom-file) (load custom-file))
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Set load-path to include this project
+(add-to-list 'load-path (expand-file-name ".." user-emacs-directory))
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Configure melpa and melpa-stable

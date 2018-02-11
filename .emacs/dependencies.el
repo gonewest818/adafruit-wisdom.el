@@ -5,4 +5,8 @@
                       :repo "gonewest818/elisp-lint"
                       :branch "modernization"))
 
+(use-package buttercup
+  :pin melpa-stable
+  :ensure t)
+
 ;;; dependencies.el ends here
