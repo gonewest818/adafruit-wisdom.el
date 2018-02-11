@@ -27,7 +27,8 @@ test: .elpa
 coverage.json: .elpa $(ELS) $(TESTS)
 	UNDERCOVER_FORCE=1 $(EMACS) $(BATCH) -f buttercup-run-discover
 
-coverage: coverage.json
+submit-coverage: coverage.json
+	curl -s https://codecov.io/bash | bash -s - -f coverage.json
 
 clean:
 	rm -f $(OBJECTS) coverage.json

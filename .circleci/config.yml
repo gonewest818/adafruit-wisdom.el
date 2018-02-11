@@ -28,6 +28,14 @@ jobs:
         entrypoint: bash
     <<: *default-steps
 
+  coverage:
+    docker:
+      - image: silex/emacs:25
+        entrypoint: bash
+    steps:
+      - checkout
+      - run: make submit-coverage
+
 # Executing in parallel
 workflows:
   version: 2
@@ -36,3 +44,8 @@ workflows:
       - test-emacs-25
       - test-emacs-26
       - test-emacs-master
+      - coverage:
+          requires:
+          - test-emacs-25
+          - test-emacs-26
+          - test-emacs-master
