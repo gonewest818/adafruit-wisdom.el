@@ -1,5 +1,5 @@
 .emacs-custom.el
-adafruit-wisdom*
+adafruit-wisdom.cache
 network-security.data
 elpa/
 quelpa/

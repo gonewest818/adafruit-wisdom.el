@@ -6,7 +6,11 @@
                       :branch "modernization"))
 
 (use-package buttercup
-  :pin melpa-stable
+  ;;:pin melpa-stable
+  :ensure t)
+
+(use-package undercover
+  ;;:pin melpa-stable
   :ensure t)
 
 ;;; dependencies.el ends here

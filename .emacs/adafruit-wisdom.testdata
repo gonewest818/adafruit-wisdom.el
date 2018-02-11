@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    >
+        <channel>
+            <title>Engineering Quotes - Adafruit Industries</title>
+            <atom:link href="http://www.adafruit.com/feed/quotes.xml" rel="self" type="application/rss+xml" />
+            <link>http://www.adafruit.com/index.php?main_page=quotes</link>
+            <description>Quotes by and for engineers</description>
+            <lastBuildDate>Sat, 10 Feb 2018 17:15:01 -0500</lastBuildDate>
+            <generator>http://www.adafruit.com</generator>
+            <image>
+              <title>Engineering Quotes - Adafruit Industries</title>
+              <url>http://www.adafruit.com/blog/adafruit.gif</url>
+              <link>http://www.adafruit.com/index.php?main_page=quotes</link>
+            </image>
+            <language>en</language>
+            <sy:updatePeriod>hourly</sy:updatePeriod>
+            <sy:updateFrequency>1</sy:updateFrequency>
+<item>
+        <title><![CDATA[I don’t care that they stole my idea — I care that they don’t have any of their own - Nikola Tesla]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#145</link>
+        <pubDate>Sun, 07 Jan 2018 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["I don’t care that they stole my idea — I care that they don’t have any of their own" - <a href="https://en.wikipedia.org/wiki/Nikola_Tesla">Nikola Tesla</a>]]></description>
+        <content:encoded><![CDATA["I don’t care that they stole my idea — I care that they don’t have any of their own" - <a href="https://en.wikipedia.org/wiki/Nikola_Tesla">Nikola Tesla</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Another belief of mine; that everyone else my age is an adult, whereas I am merely in disguise - Margaret Atwood]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#144</link>
+        <pubDate>Tue, 31 Oct 2017 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Another belief of mine; that everyone else my age is an adult, whereas I am merely in disguise" - <a href="https://en.wikiquote.org/wiki/Margaret_Atwood">Margaret Atwood</a>]]></description>
+        <content:encoded><![CDATA["Another belief of mine; that everyone else my age is an adult, whereas I am merely in disguise" - <a href="https://en.wikiquote.org/wiki/Margaret_Atwood">Margaret Atwood</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[They always say time changes things, but you actually have to change them yourself - Andy Warhol]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#143</link>
+        <pubDate>Wed, 26 Apr 2017 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["They always say time changes things, but you actually have to change them yourself" - <a href="https://en.wikipedia.org/wiki/Andy_Warhol">Andy Warhol</a>]]></description>
+        <content:encoded><![CDATA["They always say time changes things, but you actually have to change them yourself" - <a href="https://en.wikipedia.org/wiki/Andy_Warhol">Andy Warhol</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Eternal vigilance is not only the price of liberty; eternal vigilance is the price of human decency - Aldous Huxley]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#141</link>
+        <pubDate>Fri, 17 Mar 2017 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Eternal vigilance is not only the price of liberty; eternal vigilance is the price of human decency" - <a href="http://www.thisdayinquotes.com/2011/01/eternal-vigilance-is-price-of-liberty.html">Aldous Huxley</a>]]></description>
+        <content:encoded><![CDATA["Eternal vigilance is not only the price of liberty; eternal vigilance is the price of human decency" - <a href="http://www.thisdayinquotes.com/2011/01/eternal-vigilance-is-price-of-liberty.html">Aldous Huxley</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Get as much education as you can. Nobody can take that away from you - Eben Upton]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#142</link>
+        <pubDate>Fri, 17 Mar 2017 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Get as much education as you can. Nobody can take that away from you" - <a href="http://lifehacker.com/5978324/im-eben-upton-executive-director-of-the-raspberry-pi-foundation-and-this-is-how-i-work">Eben Upton</a>]]></description>
+        <content:encoded><![CDATA["Get as much education as you can. Nobody can take that away from you" - <a href="http://lifehacker.com/5978324/im-eben-upton-executive-director-of-the-raspberry-pi-foundation-and-this-is-how-i-work">Eben Upton</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[To be persuasive we must be believable; to be believable we must be credible; credible we must be truthful. - Edward R. Murrow]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#140</link>
+        <pubDate>Sun, 12 Mar 2017 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["To be persuasive we must be believable; to be believable we must be credible; credible we must be truthful." - <a href="https://en.wikipedia.org/wiki/Edward_R._Murrow">Edward R. Murrow</a>]]></description>
+        <content:encoded><![CDATA["To be persuasive we must be believable; to be believable we must be credible; credible we must be truthful." - <a href="https://en.wikipedia.org/wiki/Edward_R._Murrow">Edward R. Murrow</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Nothing is work unless you'd rather be doing something else - George Halas]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#139</link>
+        <pubDate>Wed, 22 Jun 2016 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Nothing is work unless you'd rather be doing something else" - <a href="https://en.wikipedia.org/wiki/George_Halas">George Halas</a>]]></description>
+        <content:encoded><![CDATA["Nothing is work unless you'd rather be doing something else" - <a href="https://en.wikipedia.org/wiki/George_Halas">George Halas</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Science, engineering, design, and art can together be viewed as a circle where the output of one is the input of another - Joi Ito]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#138</link>
+        <pubDate>Sun, 12 Jun 2016 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Science, engineering, design, and art can together be viewed as a circle where the output of one is the input of another" - <a href="http://pubpub.ito.com/pub/joichi-itos-research-statement---march-2016">Joi Ito</a>]]></description>
+        <content:encoded><![CDATA["Science, engineering, design, and art can together be viewed as a circle where the output of one is the input of another" - <a href="http://pubpub.ito.com/pub/joichi-itos-research-statement---march-2016">Joi Ito</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Being good in business is the most fascinating kind of art. Making money is art and working is art and good business is the best art. -  Andy Warhol]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#137</link>
+        <pubDate>Wed, 08 Jun 2016 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Being good in business is the most fascinating kind of art. Making money is art and working is art and good business is the best art." - <a href="https://en.wikipedia.org/wiki/Andy_Warhol"> Andy Warhol</a>]]></description>
+        <content:encoded><![CDATA["Being good in business is the most fascinating kind of art. Making money is art and working is art and good business is the best art." - <a href="https://en.wikipedia.org/wiki/Andy_Warhol"> Andy Warhol</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Every great dream begins with a dreamer - Harriet Tubman]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#135</link>
+        <pubDate>Thu, 21 Apr 2016 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Every great dream begins with a dreamer" - <a href="https://en.wikipedia.org/wiki/Harriet_Tubman">Harriet Tubman</a>]]></description>
+        <content:encoded><![CDATA["Every great dream begins with a dreamer" - <a href="https://en.wikipedia.org/wiki/Harriet_Tubman">Harriet Tubman</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[A strong spirit transcends rules - Prince]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#136</link>
+        <pubDate>Thu, 21 Apr 2016 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["A strong spirit transcends rules" - <a href="https://en.wikipedia.org/wiki/Prince_(musician)">Prince</a>]]></description>
+        <content:encoded><![CDATA["A strong spirit transcends rules" - <a href="https://en.wikipedia.org/wiki/Prince_(musician)">Prince</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Achieving a goal provides immediate satisfaction; the process of achieving a goal is a lasting pleasure - Evelyn Berezin]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#134</link>
+        <pubDate>Wed, 13 Apr 2016 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Achieving a goal provides immediate satisfaction; the process of achieving a goal is a lasting pleasure" - <a href="http://www.computerhistory.org/fellowawards/hall/bios/Evelyn,Berezin/">Evelyn Berezin</a>]]></description>
+        <content:encoded><![CDATA["Achieving a goal provides immediate satisfaction; the process of achieving a goal is a lasting pleasure" - <a href="http://www.computerhistory.org/fellowawards/hall/bios/Evelyn,Berezin/">Evelyn Berezin</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Two aesthetics exist: the passive aesthetic of mirrors and the active aesthetic of prisms - Jorge Luis Borges]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#133</link>
+        <pubDate>Wed, 16 Dec 2015 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Two aesthetics exist: the passive aesthetic of mirrors and the active aesthetic of prisms" - <a href="http://www.goodreads.com/quotes/924243-two-aesthetics-exist-the-passive-aesthetic-of-mirrors-and-the">Jorge Luis Borges</a>]]></description>
+        <content:encoded><![CDATA["Two aesthetics exist: the passive aesthetic of mirrors and the active aesthetic of prisms" - <a href="http://www.goodreads.com/quotes/924243-two-aesthetics-exist-the-passive-aesthetic-of-mirrors-and-the">Jorge Luis Borges</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[By always thinking unto them. I keep the subject constantly before me and wait till the first dawnings open little by little into the full light - Isaac Newton]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#132</link>
+        <pubDate>Sun, 06 Dec 2015 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["By always thinking unto them. I keep the subject constantly before me and wait till the first dawnings open little by little into the full light" - <a href="https://books.google.com/books?id=agI9AAAAIAAJ&pg=PA163&lpg=PA163&dq=isaac+newton+by+always+thinking+unto+them&source=bl&ots=0k_nBzZcqm&sig=3ARIEdz66ACinqE1KNi1Uh3sMMw&hl=en&sa=X&ved=0ahUKEwiIzfDIt8fJAhVF4CYKHadLCAsQ6AEINzAG#v=onepage&q=by%20always%20thin">Isaac Newton</a>]]></description>
+        <content:encoded><![CDATA["By always thinking unto them. I keep the subject constantly before me and wait till the first dawnings open little by little into the full light" - <a href="https://books.google.com/books?id=agI9AAAAIAAJ&pg=PA163&lpg=PA163&dq=isaac+newton+by+always+thinking+unto+them&source=bl&ots=0k_nBzZcqm&sig=3ARIEdz66ACinqE1KNi1Uh3sMMw&hl=en&sa=X&ved=0ahUKEwiIzfDIt8fJAhVF4CYKHadLCAsQ6AEINzAG#v=onepage&q=by%20always%20thin">Isaac Newton</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Striving for excellence motivates... striving for perfection is demoralizing - Harriet B. Braiker]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#131</link>
+        <pubDate>Sun, 22 Nov 2015 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Striving for excellence motivates... striving for perfection is demoralizing" - <a href="Striving for excellence motivates you; striving for perfection is demoralizing">Harriet B. Braiker</a>]]></description>
+        <content:encoded><![CDATA["Striving for excellence motivates... striving for perfection is demoralizing" - <a href="Striving for excellence motivates you; striving for perfection is demoralizing">Harriet B. Braiker</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[That brain of mine is something more than merely mortal; as time will show - Ada Lovelace]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#130</link>
+        <pubDate>Sat, 07 Nov 2015 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["That brain of mine is something more than merely mortal; as time will show" - <a href="https://www.newscientist.com/article/mg21628860-300-ada-lovelace-my-brain-is-more-than-merely-mortal/">Ada Lovelace</a>]]></description>
+        <content:encoded><![CDATA["That brain of mine is something more than merely mortal; as time will show" - <a href="https://www.newscientist.com/article/mg21628860-300-ada-lovelace-my-brain-is-more-than-merely-mortal/">Ada Lovelace</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[What I cannot create, I do not understand - Richard Feynman]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#129</link>
+        <pubDate>Sun, 25 Oct 2015 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["What I cannot create, I do not understand" - <a href="https://www.quora.com/What-did-Richard-Feynman-mean-when-he-said-What-I-cannot-create-I-do-not-understand">Richard Feynman</a>]]></description>
+        <content:encoded><![CDATA["What I cannot create, I do not understand" - <a href="https://www.quora.com/What-did-Richard-Feynman-mean-when-he-said-What-I-cannot-create-I-do-not-understand">Richard Feynman</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Far and away the best prize that life has to offer is the chance to work hard at work worth doing - Theodore Roosevelt]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#128</link>
+        <pubDate>Mon, 12 Oct 2015 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Far and away the best prize that life has to offer is the chance to work hard at work worth doing" - <a href="https://en.wikipedia.org/wiki/Theodore_Roosevelt">Theodore Roosevelt</a>]]></description>
+        <content:encoded><![CDATA["Far and away the best prize that life has to offer is the chance to work hard at work worth doing" - <a href="https://en.wikipedia.org/wiki/Theodore_Roosevelt">Theodore Roosevelt</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[An expert is a person who has made all the mistakes that can be made in a very narrow field - Niels Bohr]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#127</link>
+        <pubDate>Fri, 11 Sep 2015 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["An expert is a person who has made all the mistakes that can be made in a very narrow field" - <a href="https://en.wikipedia.org/wiki/Niels_Bohr">Niels Bohr</a>]]></description>
+        <content:encoded><![CDATA["An expert is a person who has made all the mistakes that can be made in a very narrow field" - <a href="https://en.wikipedia.org/wiki/Niels_Bohr">Niels Bohr</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Invention, it must be humbly admitted, does not consist in creating out of void, but out of chaos - Mary Shelley]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#126</link>
+        <pubDate>Thu, 27 Aug 2015 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Invention, it must be humbly admitted, does not consist in creating out of void, but out of chaos" - <a href="https://en.wikipedia.org/wiki/Mary_Shelley">Mary Shelley</a>]]></description>
+        <content:encoded><![CDATA["Invention, it must be humbly admitted, does not consist in creating out of void, but out of chaos" - <a href="https://en.wikipedia.org/wiki/Mary_Shelley">Mary Shelley</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[I would rather walk with a friend in the dark, than alone in the light - Helen Keller]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#125</link>
+        <pubDate>Mon, 13 Jul 2015 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["I would rather walk with a friend in the dark, than alone in the light" - <a href="https://en.wikipedia.org/wiki/Helen_Keller">Helen Keller</a>]]></description>
+        <content:encoded><![CDATA["I would rather walk with a friend in the dark, than alone in the light" - <a href="https://en.wikipedia.org/wiki/Helen_Keller">Helen Keller</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[From what we get, we can make a living; what we give, however, makes a life - Arthur Ashe]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#124</link>
+        <pubDate>Mon, 06 Jul 2015 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["From what we get, we can make a living; what we give, however, makes a life" - <a href="https://en.wikipedia.org/wiki/Arthur_Ashe">Arthur Ashe</a>]]></description>
+        <content:encoded><![CDATA["From what we get, we can make a living; what we give, however, makes a life" - <a href="https://en.wikipedia.org/wiki/Arthur_Ashe">Arthur Ashe</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Seek freedom and become captive of your desires. Seek discipline and find your liberty - Frank Herbert]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#121</link>
+        <pubDate>Sat, 04 Jul 2015 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Seek freedom and become captive of your desires. Seek discipline and find your liberty" - <a href="https://en.wikipedia.org/wiki/Frank_Herbert">Frank Herbert</a>]]></description>
+        <content:encoded><![CDATA["Seek freedom and become captive of your desires. Seek discipline and find your liberty" - <a href="https://en.wikipedia.org/wiki/Frank_Herbert">Frank Herbert</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Prepare for what is difficult when it is easy - Lao Tzu]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#122</link>
+        <pubDate>Sat, 04 Jul 2015 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Prepare for what is difficult when it is easy" - <a href="https://en.wikipedia.org/wiki/Laozi">Lao Tzu</a>]]></description>
+        <content:encoded><![CDATA["Prepare for what is difficult when it is easy" - <a href="https://en.wikipedia.org/wiki/Laozi">Lao Tzu</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Only knowledge that is used sticks in your mind - Dale Carnegie]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#123</link>
+        <pubDate>Sat, 04 Jul 2015 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Only knowledge that is used sticks in your mind" - <a href="https://en.wikipedia.org/wiki/Dale_Carnegie">Dale Carnegie</a>]]></description>
+        <content:encoded><![CDATA["Only knowledge that is used sticks in your mind" - <a href="https://en.wikipedia.org/wiki/Dale_Carnegie">Dale Carnegie</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[The mind is not a vessel that needs filling, but wood that needs igniting - Plutarch]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#120</link>
+        <pubDate>Sat, 20 Jun 2015 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["The mind is not a vessel that needs filling, but wood that needs igniting" - <a href="https://en.wikipedia.org/wiki/Plutarch">Plutarch</a>]]></description>
+        <content:encoded><![CDATA["The mind is not a vessel that needs filling, but wood that needs igniting" - <a href="https://en.wikipedia.org/wiki/Plutarch">Plutarch</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[The art of progress is to preserve order amid change and to preserve change amid order - Alfred North Whitehead]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#119</link>
+        <pubDate>Thu, 11 Jun 2015 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["The art of progress is to preserve order amid change and to preserve change amid order" - <a href="http://en.wikipedia.org/wiki/Alfred_North_Whitehead">Alfred North Whitehead</a>]]></description>
+        <content:encoded><![CDATA["The art of progress is to preserve order amid change and to preserve change amid order" - <a href="http://en.wikipedia.org/wiki/Alfred_North_Whitehead">Alfred North Whitehead</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Nothing is work unless you'd rather be doing something else - George Halas]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#118</link>
+        <pubDate>Wed, 10 Jun 2015 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Nothing is work unless you'd rather be doing something else" - <a href="http://en.wikipedia.org/wiki/George_Halas">George Halas</a>]]></description>
+        <content:encoded><![CDATA["Nothing is work unless you'd rather be doing something else" - <a href="http://en.wikipedia.org/wiki/George_Halas">George Halas</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[There are no passengers on spaceship earth. We are all crew - Marshall McLuhan]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#117</link>
+        <pubDate>Sat, 06 Jun 2015 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["There are no passengers on spaceship earth. We are all crew" - <a href="http://en.wikipedia.org/wiki/Marshall_McLuhan">Marshall McLuhan</a>]]></description>
+        <content:encoded><![CDATA["There are no passengers on spaceship earth. We are all crew" - <a href="http://en.wikipedia.org/wiki/Marshall_McLuhan">Marshall McLuhan</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[The most dangerous phrase in the language is, We’ve always done it this way - Grace Hopper]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#116</link>
+        <pubDate>Tue, 26 May 2015 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["The most dangerous phrase in the language is, We’ve always done it this way" - <a href="http://en.wikipedia.org/wiki/Grace_Hopper">Grace Hopper</a>]]></description>
+        <content:encoded><![CDATA["The most dangerous phrase in the language is, We’ve always done it this way" - <a href="http://en.wikipedia.org/wiki/Grace_Hopper">Grace Hopper</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[The master in the art of living makes little distinction between... work and play - L. P. Jacks]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#115</link>
+        <pubDate>Thu, 14 May 2015 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["The master in the art of living makes little distinction between... work and play" - <a href="http://en.wikipedia.org/wiki/L._P._Jacks">L. P. Jacks</a>]]></description>
+        <content:encoded><![CDATA["The master in the art of living makes little distinction between... work and play" - <a href="http://en.wikipedia.org/wiki/L._P._Jacks">L. P. Jacks</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[the future is not what it used to be - Robert Graves]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#114</link>
+        <pubDate>Tue, 12 May 2015 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["the future is not what it used to be" - <a href="http://en.wikipedia.org/wiki/Robert_Graves">Robert Graves</a>]]></description>
+        <content:encoded><![CDATA["the future is not what it used to be" - <a href="http://en.wikipedia.org/wiki/Robert_Graves">Robert Graves</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Meaning can easily be confused with structure. Structure is a good approximation, but not the same - Claudia Perlich]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#113</link>
+        <pubDate>Fri, 01 May 2015 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Meaning can easily be confused with structure. Structure is a good approximation, but not the same" - <a href="http://people.stern.nyu.edu/cperlich/">Claudia Perlich</a>]]></description>
+        <content:encoded><![CDATA["Meaning can easily be confused with structure. Structure is a good approximation, but not the same" - <a href="http://people.stern.nyu.edu/cperlich/">Claudia Perlich</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Tomorrow belongs to those who can hear it coming - David Bowie]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#112</link>
+        <pubDate>Thu, 23 Apr 2015 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Tomorrow belongs to those who can hear it coming" - <a href="http://en.wikipedia.org/wiki/David_Bowie">David Bowie</a>]]></description>
+        <content:encoded><![CDATA["Tomorrow belongs to those who can hear it coming" - <a href="http://en.wikipedia.org/wiki/David_Bowie">David Bowie</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[There are three things to remember when teaching: know your stuff; know whom you are stuffing; and then stuff them elegantly - Lola May]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#111</link>
+        <pubDate>Wed, 22 Apr 2015 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["There are three things to remember when teaching: know your stuff; know whom you are stuffing; and then stuff them elegantly" - <a href="http://en.wikipedia.org/wiki/Lola_J._May">Lola May</a>]]></description>
+        <content:encoded><![CDATA["There are three things to remember when teaching: know your stuff; know whom you are stuffing; and then stuff them elegantly" - <a href="http://en.wikipedia.org/wiki/Lola_J._May">Lola May</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[I am one of the people who love the why of things - Catherine the Great]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#110</link>
+        <pubDate>Mon, 20 Apr 2015 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["I am one of the people who love the why of things" - <a href="http://en.wikipedia.org/wiki/Catherine_the_Great">Catherine the Great</a>]]></description>
+        <content:encoded><![CDATA["I am one of the people who love the why of things" - <a href="http://en.wikipedia.org/wiki/Catherine_the_Great">Catherine the Great</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less. - Marie Curie]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#109</link>
+        <pubDate>Sun, 19 Apr 2015 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less." - <a href="http://en.wikipedia.org/wiki/Marie_Curie">Marie Curie</a>]]></description>
+        <content:encoded><![CDATA["Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less." - <a href="http://en.wikipedia.org/wiki/Marie_Curie">Marie Curie</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Somewhere, something incredible is waiting to be known - Carl Sagan]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#108</link>
+        <pubDate>Sun, 15 Mar 2015 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Somewhere, something incredible is waiting to be known" - <a href="http://en.wikipedia.org/wiki/Carl_Sagan">Carl Sagan</a>]]></description>
+        <content:encoded><![CDATA["Somewhere, something incredible is waiting to be known" - <a href="http://en.wikipedia.org/wiki/Carl_Sagan">Carl Sagan</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Failing to prepare is preparing to fail  - Benjamin Franklin]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#105</link>
+        <pubDate>Sun, 01 Mar 2015 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Failing to prepare is preparing to fail " - <a href="http://en.wikipedia.org/wiki/Benjamin_Franklin">Benjamin Franklin</a>]]></description>
+        <content:encoded><![CDATA["Failing to prepare is preparing to fail " - <a href="http://en.wikipedia.org/wiki/Benjamin_Franklin">Benjamin Franklin</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Be quick, but don't hurry - John Wooden]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#106</link>
+        <pubDate>Sun, 01 Mar 2015 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Be quick, but don't hurry" - <a href="http://en.wikipedia.org/wiki/John_Wooden">John Wooden</a>]]></description>
+        <content:encoded><![CDATA["Be quick, but don't hurry" - <a href="http://en.wikipedia.org/wiki/John_Wooden">John Wooden</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Flexibility is the key to stability - John Wooden]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#107</link>
+        <pubDate>Sun, 01 Mar 2015 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Flexibility is the key to stability" - <a href="http://en.wikipedia.org/wiki/John_Wooden">John Wooden</a>]]></description>
+        <content:encoded><![CDATA["Flexibility is the key to stability" - <a href="http://en.wikipedia.org/wiki/John_Wooden">John Wooden</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Things do not happen. Things are made to happen - John F. Kennedy]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#102</link>
+        <pubDate>Fri, 27 Feb 2015 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Things do not happen. Things are made to happen" - <a href="http://library.und.edu/digital/john-f-kennedy-archive/delivered.php">John F. Kennedy</a>]]></description>
+        <content:encoded><![CDATA["Things do not happen. Things are made to happen" - <a href="http://library.und.edu/digital/john-f-kennedy-archive/delivered.php">John F. Kennedy</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[If opportunity doesn't knock, build a door - Milton Berle]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#103</link>
+        <pubDate>Fri, 27 Feb 2015 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["If opportunity doesn't knock, build a door" - <a href="http://en.wikipedia.org/wiki/Milton_Berle">Milton Berle</a>]]></description>
+        <content:encoded><![CDATA["If opportunity doesn't knock, build a door" - <a href="http://en.wikipedia.org/wiki/Milton_Berle">Milton Berle</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[The miracle is this: The more we share, the more we have - Leonard Nimoy]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#104</link>
+        <pubDate>Fri, 27 Feb 2015 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["The miracle is this: The more we share, the more we have" - <a href="http://en.wikipedia.org/wiki/Leonard_Nimoy">Leonard Nimoy</a>]]></description>
+        <content:encoded><![CDATA["The miracle is this: The more we share, the more we have" - <a href="http://en.wikipedia.org/wiki/Leonard_Nimoy">Leonard Nimoy</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[You're never too old, and if you want to, as my mother said, you can do anything you want to, but you have to work at it - Annie Easley]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#100</link>
+        <pubDate>Sun, 22 Feb 2015 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["You're never too old, and if you want to, as my mother said, you can do anything you want to, but you have to work at it" - <a href="http://en.wikipedia.org/wiki/Annie_Easley">Annie Easley</a>]]></description>
+        <content:encoded><![CDATA["You're never too old, and if you want to, as my mother said, you can do anything you want to, but you have to work at it" - <a href="http://en.wikipedia.org/wiki/Annie_Easley">Annie Easley</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Be so good they can't ignore you - Steve Martin]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#101</link>
+        <pubDate>Sun, 22 Feb 2015 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Be so good they can't ignore you" - <a href="http://en.wikipedia.org/wiki/Steve_Martin">Steve Martin</a>]]></description>
+        <content:encoded><![CDATA["Be so good they can't ignore you" - <a href="http://en.wikipedia.org/wiki/Steve_Martin">Steve Martin</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[I would rather entertain and hope that people learned
+                something than educate people and hope they were entertained - Walt Disney]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#99</link>
+        <pubDate>Sat, 21 Feb 2015 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["I would rather entertain and hope that people learned
+                something than educate people and hope they were entertained" - <a href="http://en.wikipedia.org/wiki/Walt_Disney">Walt Disney</a>]]></description>
+        <content:encoded><![CDATA["I would rather entertain and hope that people learned
+                something than educate people and hope they were entertained" - <a href="http://en.wikipedia.org/wiki/Walt_Disney">Walt Disney</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Sometimes magic is just spending more time on something than anyone would reasonably expect - Teller]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#98</link>
+        <pubDate>Wed, 11 Feb 2015 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Sometimes magic is just spending more time on something than anyone would reasonably expect" - <a href="http://en.wikipedia.org/wiki/Teller_%28magician%29">Teller</a>]]></description>
+        <content:encoded><![CDATA["Sometimes magic is just spending more time on something than anyone would reasonably expect" - <a href="http://en.wikipedia.org/wiki/Teller_%28magician%29">Teller</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[This good fun, explore, explore, explore, that's what science is, exploration, finding out new things, so have a good time with it - Charles Townes]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#97</link>
+        <pubDate>Fri, 30 Jan 2015 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["This good fun, explore, explore, explore, that's what science is, exploration, finding out new things, so have a good time with it" - <a href="http://en.wikipedia.org/wiki/Charles_H._Townes">Charles Townes</a>]]></description>
+        <content:encoded><![CDATA["This good fun, explore, explore, explore, that's what science is, exploration, finding out new things, so have a good time with it" - <a href="http://en.wikipedia.org/wiki/Charles_H._Townes">Charles Townes</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Life's most persistent and urgent question is, What are you doing for others? - Martin Luther King, Jr.]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#96</link>
+        <pubDate>Mon, 19 Jan 2015 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Life's most persistent and urgent question is, What are you doing for others?" - <a href="http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr.">Martin Luther King, Jr.</a>]]></description>
+        <content:encoded><![CDATA["Life's most persistent and urgent question is, What are you doing for others?" - <a href="http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr.">Martin Luther King, Jr.</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[We are the music makers, And we are the dreamers of dreams - Arthur O'Shaughnessy]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#95</link>
+        <pubDate>Tue, 23 Sep 2014 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["We are the music makers, And we are the dreamers of dreams" - <a href="http://en.wikipedia.org/wiki/Arthur_O'Shaughnessy">Arthur O'Shaughnessy</a>]]></description>
+        <content:encoded><![CDATA["We are the music makers, And we are the dreamers of dreams" - <a href="http://en.wikipedia.org/wiki/Arthur_O'Shaughnessy">Arthur O'Shaughnessy</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[I long to accomplish a great and noble task, but it is my chief duty to accomplish humble tasks as though they were great and noble - Helen Keller]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#94</link>
+        <pubDate>Tue, 16 Sep 2014 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["I long to accomplish a great and noble task, but it is my chief duty to accomplish humble tasks as though they were great and noble" - <a href="http://en.wikipedia.org/wiki/Helen_Keller">Helen Keller</a>]]></description>
+        <content:encoded><![CDATA["I long to accomplish a great and noble task, but it is my chief duty to accomplish humble tasks as though they were great and noble" - <a href="http://en.wikipedia.org/wiki/Helen_Keller">Helen Keller</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[How wonderful it is that nobody need wait a single moment before starting to improve the world - Anne Frank]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#93</link>
+        <pubDate>Sat, 30 Aug 2014 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["How wonderful it is that nobody need wait a single moment before starting to improve the world" - <a href="http://en.wikipedia.org/wiki/Anne_Frank">Anne Frank</a>]]></description>
+        <content:encoded><![CDATA["How wonderful it is that nobody need wait a single moment before starting to improve the world" - <a href="http://en.wikipedia.org/wiki/Anne_Frank">Anne Frank</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[You're only given one little spark of madness. You mustn't lose it - Robin Williams]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#92</link>
+        <pubDate>Tue, 12 Aug 2014 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["You're only given one little spark of madness. You mustn't lose it" - <a href="http://en.wikipedia.org/wiki/Robin_Williams">Robin Williams</a>]]></description>
+        <content:encoded><![CDATA["You're only given one little spark of madness. You mustn't lose it" - <a href="http://en.wikipedia.org/wiki/Robin_Williams">Robin Williams</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Do not train a child to learn by force or harshness; but direct them to it by what amuses their minds, so that you may be better able to discover with accuracy the peculiar bent of the genius of each - Plato]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#91</link>
+        <pubDate>Tue, 22 Jul 2014 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Do not train a child to learn by force or harshness; but direct them to it by what amuses their minds, so that you may be better able to discover with accuracy the peculiar bent of the genius of each" - <a href="http://en.wikipedia.org/wiki/Plato">Plato</a>]]></description>
+        <content:encoded><![CDATA["Do not train a child to learn by force or harshness; but direct them to it by what amuses their minds, so that you may be better able to discover with accuracy the peculiar bent of the genius of each" - <a href="http://en.wikipedia.org/wiki/Plato">Plato</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[I don't think there's anything like saving someone's life to bring you satisfaction and happiness - Stephanie Kwolek]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#90</link>
+        <pubDate>Fri, 20 Jun 2014 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["I don't think there's anything like saving someone's life to bring you satisfaction and happiness" - <a href="http://en.wikipedia.org/wiki/Stephanie_Kwolek">Stephanie Kwolek</a>]]></description>
+        <content:encoded><![CDATA["I don't think there's anything like saving someone's life to bring you satisfaction and happiness" - <a href="http://en.wikipedia.org/wiki/Stephanie_Kwolek">Stephanie Kwolek</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[If you have knowledge, let others light their candles at it - Margaret Fuller]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#89</link>
+        <pubDate>Wed, 18 Jun 2014 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["If you have knowledge, let others light their candles at it" - <a href="http://en.wikipedia.org/wiki/Margaret_Fuller">Margaret Fuller</a>]]></description>
+        <content:encoded><![CDATA["If you have knowledge, let others light their candles at it" - <a href="http://en.wikipedia.org/wiki/Margaret_Fuller">Margaret Fuller</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[If you get, give. If you learn, teach - Maya Angelou]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#81</link>
+        <pubDate>Mon, 16 Jun 2014 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["If you get, give. If you learn, teach" - <a href="http://en.wikipedia.org/wiki/Maya_Angelou">Maya Angelou</a>]]></description>
+        <content:encoded><![CDATA["If you get, give. If you learn, teach" - <a href="http://en.wikipedia.org/wiki/Maya_Angelou">Maya Angelou</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained - Marie Curie]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#82</link>
+        <pubDate>Mon, 16 Jun 2014 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained" - <a href="http://en.wikipedia.org/wiki/Marie_Curie">Marie Curie</a>]]></description>
+        <content:encoded><![CDATA["Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained" - <a href="http://en.wikipedia.org/wiki/Marie_Curie">Marie Curie</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[We have a hunger of the mind which asks for knowledge of all around us, and the more we gain, the more is our desire; the more we see, the more we are capable of seeing - Maria Mitchell]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#83</link>
+        <pubDate>Mon, 16 Jun 2014 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["We have a hunger of the mind which asks for knowledge of all around us, and the more we gain, the more is our desire; the more we see, the more we are capable of seeing" - <a href="http://en.wikipedia.org/wiki/Maria_Mitchell">Maria Mitchell</a>]]></description>
+        <content:encoded><![CDATA["We have a hunger of the mind which asks for knowledge of all around us, and the more we gain, the more is our desire; the more we see, the more we are capable of seeing" - <a href="http://en.wikipedia.org/wiki/Maria_Mitchell">Maria Mitchell</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[One never notices what has been done; one can only see what remains to be done - Marie Curie]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#84</link>
+        <pubDate>Mon, 16 Jun 2014 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["One never notices what has been done; one can only see what remains to be done" - <a href="http://en.wikipedia.org/wiki/Marie_Curie">Marie Curie</a>]]></description>
+        <content:encoded><![CDATA["One never notices what has been done; one can only see what remains to be done" - <a href="http://en.wikipedia.org/wiki/Marie_Curie">Marie Curie</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[In considering any new subject, there is frequently a tendency, first, to overrate what we find to be already interesting or remarkable; and, secondly, by a sort of natural reaction, to undervalue the true state of the case, when we do discover that our notions have surpassed those that were really tenable - Ada Lovelace]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#85</link>
+        <pubDate>Mon, 16 Jun 2014 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["In considering any new subject, there is frequently a tendency, first, to overrate what we find to be already interesting or remarkable; and, secondly, by a sort of natural reaction, to undervalue the true state of the case, when we do discover that our notions have surpassed those that were really tenable" - <a href="http://en.wikipedia.org/wiki/Ada_Lovelace">Ada Lovelace</a>]]></description>
+        <content:encoded><![CDATA["In considering any new subject, there is frequently a tendency, first, to overrate what we find to be already interesting or remarkable; and, secondly, by a sort of natural reaction, to undervalue the true state of the case, when we do discover that our notions have surpassed those that were really tenable" - <a href="http://en.wikipedia.org/wiki/Ada_Lovelace">Ada Lovelace</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[The Analytical Engine weaves algebraic patterns, just as the Jacquard loom weaves flowers and leaves - Ada Lovelace]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#86</link>
+        <pubDate>Mon, 16 Jun 2014 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["The Analytical Engine weaves algebraic patterns, just as the Jacquard loom weaves flowers and leaves" - <a href="http://en.wikipedia.org/wiki/Ada_Lovelace">Ada Lovelace</a>]]></description>
+        <content:encoded><![CDATA["The Analytical Engine weaves algebraic patterns, just as the Jacquard loom weaves flowers and leaves" - <a href="http://en.wikipedia.org/wiki/Ada_Lovelace">Ada Lovelace</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[There are a few people out there who really enjoy hacking things... - Helen Greiner]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#87</link>
+        <pubDate>Mon, 16 Jun 2014 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["There are a few people out there who really enjoy hacking things..." - <a href="http://www.nytimes.com/2006/03/08/technology/08iht-ptbot09.html?_r=0">Helen Greiner</a>]]></description>
+        <content:encoded><![CDATA["There are a few people out there who really enjoy hacking things..." - <a href="http://www.nytimes.com/2006/03/08/technology/08iht-ptbot09.html?_r=0">Helen Greiner</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[...programming is more than an important practical art. It is also a gigantic undertaking in the foundations of knowledge - Grace Hopper]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#88</link>
+        <pubDate>Mon, 16 Jun 2014 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["...programming is more than an important practical art. It is also a gigantic undertaking in the foundations of knowledge" - <a href="http://en.wikipedia.org/wiki/Grace_Hopper">Grace Hopper</a>]]></description>
+        <content:encoded><![CDATA["...programming is more than an important practical art. It is also a gigantic undertaking in the foundations of knowledge" - <a href="http://en.wikipedia.org/wiki/Grace_Hopper">Grace Hopper</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Nothing will work unless you do - Maya Angelou]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#80</link>
+        <pubDate>Wed, 28 May 2014 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Nothing will work unless you do" - <a href="http://en.wikipedia.org/wiki/Maya_Angelou">Maya Angelou</a>]]></description>
+        <content:encoded><![CDATA["Nothing will work unless you do" - <a href="http://en.wikipedia.org/wiki/Maya_Angelou">Maya Angelou</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[If you want to find the secrets of the universe, think in terms of energy, frequency and vibration - Nikola Tesla]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#79</link>
+        <pubDate>Tue, 08 Apr 2014 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["If you want to find the secrets of the universe, think in terms of energy, frequency and vibration" - <a href="http://en.wikipedia.org/wiki/Nikola_Tesla">Nikola Tesla</a>]]></description>
+        <content:encoded><![CDATA["If you want to find the secrets of the universe, think in terms of energy, frequency and vibration" - <a href="http://en.wikipedia.org/wiki/Nikola_Tesla">Nikola Tesla</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Every kid starts out as a natural-born scientist, and then we beat it out of them. A few trickle through the system with their wonder and enthusiasm for science intact - Carl Sagan]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#78</link>
+        <pubDate>Tue, 04 Mar 2014 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Every kid starts out as a natural-born scientist, and then we beat it out of them. A few trickle through the system with their wonder and enthusiasm for science intact" - <a href="http://en.wikipedia.org/wiki/Carl_Sagan">Carl Sagan</a>]]></description>
+        <content:encoded><![CDATA["Every kid starts out as a natural-born scientist, and then we beat it out of them. A few trickle through the system with their wonder and enthusiasm for science intact" - <a href="http://en.wikipedia.org/wiki/Carl_Sagan">Carl Sagan</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[There is a single light of science, and to brighten it anywhere is to brighten it everywhere - Isaac Asimov]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#76</link>
+        <pubDate>Mon, 24 Feb 2014 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["There is a single light of science, and to brighten it anywhere is to brighten it everywhere" - <a href="http://en.wikipedia.org/wiki/Isaac_Asimov">Isaac Asimov</a>]]></description>
+        <content:encoded><![CDATA["There is a single light of science, and to brighten it anywhere is to brighten it everywhere" - <a href="http://en.wikipedia.org/wiki/Isaac_Asimov">Isaac Asimov</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth - Jules Verne]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#77</link>
+        <pubDate>Mon, 24 Feb 2014 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth" - <a href="http://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth">Jules Verne</a>]]></description>
+        <content:encoded><![CDATA["Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth" - <a href="http://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth">Jules Verne</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Ever tried. Ever failed. No matter. Try again. Fail again. Fail better - Samuel Beckett]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#75</link>
+        <pubDate>Thu, 30 Jan 2014 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Ever tried. Ever failed. No matter. Try again. Fail again. Fail better" - <a href="http://en.wikipedia.org/wiki/Samuel_Beckett">Samuel Beckett</a>]]></description>
+        <content:encoded><![CDATA["Ever tried. Ever failed. No matter. Try again. Fail again. Fail better" - <a href="http://en.wikipedia.org/wiki/Samuel_Beckett">Samuel Beckett</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[The key to the future of the world is finding the optimistic stories and letting them be known - Pete Seeger]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#74</link>
+        <pubDate>Wed, 29 Jan 2014 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["The key to the future of the world is finding the optimistic stories and letting them be known" - <a href="http://en.wikipedia.org/wiki/Pete_Seeger">Pete Seeger</a>]]></description>
+        <content:encoded><![CDATA["The key to the future of the world is finding the optimistic stories and letting them be known" - <a href="http://en.wikipedia.org/wiki/Pete_Seeger">Pete Seeger</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[A hacker to me is someone creative who does wonderful things - Tim Berners-Lee]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#73</link>
+        <pubDate>Sat, 26 Jan 2013 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["A hacker to me is someone creative who does wonderful things" - <a href="https://twitter.com/wef/statuses/294738623641812992">Tim Berners-Lee</a>]]></description>
+        <content:encoded><![CDATA["A hacker to me is someone creative who does wonderful things" - <a href="https://twitter.com/wef/statuses/294738623641812992">Tim Berners-Lee</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[If you want to build a ship, don’t drum up people to collect wood and don’t assign them tasks and work, but rather teach them to long for the endless immensity of the sea - Antoine de Saint-Exupéry]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#72</link>
+        <pubDate>Tue, 22 Jan 2013 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["If you want to build a ship, don’t drum up people to collect wood and don’t assign them tasks and work, but rather teach them to long for the endless immensity of the sea" - <a href="http://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry">Antoine de Saint-Exupéry</a>]]></description>
+        <content:encoded><![CDATA["If you want to build a ship, don’t drum up people to collect wood and don’t assign them tasks and work, but rather teach them to long for the endless immensity of the sea" - <a href="http://en.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry">Antoine de Saint-Exupéry</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[All labor that uplifts humanity has dignity and importance and should be undertaken with painstaking excellence - Martin Luther King, Jr.]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#71</link>
+        <pubDate>Sun, 20 Jan 2013 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["All labor that uplifts humanity has dignity and importance and should be undertaken with painstaking excellence" - <a href="http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr.">Martin Luther King, Jr.</a>]]></description>
+        <content:encoded><![CDATA["All labor that uplifts humanity has dignity and importance and should be undertaken with painstaking excellence" - <a href="http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr.">Martin Luther King, Jr.</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Don't fight forces, use them - R. Buckminster Fuller]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#70</link>
+        <pubDate>Wed, 16 Jan 2013 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Don't fight forces, use them" - <a href="http://en.wikipedia.org/wiki/Buckminster_Fuller">R. Buckminster Fuller</a>]]></description>
+        <content:encoded><![CDATA["Don't fight forces, use them" - <a href="http://en.wikipedia.org/wiki/Buckminster_Fuller">R. Buckminster Fuller</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Don't undertake a project unless it is manifestly important and nearly impossible - Edwin Land]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#69</link>
+        <pubDate>Wed, 03 Oct 2012 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Don't undertake a project unless it is manifestly important and nearly impossible" - <a href="http://en.wikipedia.org/wiki/Edwin_H._Land">Edwin Land</a>]]></description>
+        <content:encoded><![CDATA["Don't undertake a project unless it is manifestly important and nearly impossible" - <a href="http://en.wikipedia.org/wiki/Edwin_H._Land">Edwin Land</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[There’s nothing like watching the sunrise to the beats of the Robot Heart - Andrew "bunnie" Huang]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#68</link>
+        <pubDate>Sun, 09 Sep 2012 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["There’s nothing like watching the sunrise to the beats of the Robot Heart" - <a href="http://en.wikipedia.org/wiki/Andrew_Huang">Andrew "bunnie" Huang</a>]]></description>
+        <content:encoded><![CDATA["There’s nothing like watching the sunrise to the beats of the Robot Heart" - <a href="http://en.wikipedia.org/wiki/Andrew_Huang">Andrew "bunnie" Huang</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Propel, propel, propel your craft softly down liquid solution. Ecstatically, ecstatically, ecstatically, ecstatically, existence is simply illusion - Fred Rogers]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#67</link>
+        <pubDate>Tue, 28 Aug 2012 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Propel, propel, propel your craft softly down liquid solution. Ecstatically, ecstatically, ecstatically, ecstatically, existence is simply illusion" - <a href="http://en.wikipedia.org/wiki/Fred_Rogers">Fred Rogers</a>]]></description>
+        <content:encoded><![CDATA["Propel, propel, propel your craft softly down liquid solution. Ecstatically, ecstatically, ecstatically, ecstatically, existence is simply illusion" - <a href="http://en.wikipedia.org/wiki/Fred_Rogers">Fred Rogers</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Elegance is not a dispensable luxury but a quality that decides between success and failure - Edsgar Dijkstra]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#65</link>
+        <pubDate>Thu, 23 Aug 2012 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Elegance is not a dispensable luxury but a quality that decides between success and failure" - <a href="http://en.wikipedia.org/wiki/Edsger_W._Dijkstra">Edsgar Dijkstra</a>]]></description>
+        <content:encoded><![CDATA["Elegance is not a dispensable luxury but a quality that decides between success and failure" - <a href="http://en.wikipedia.org/wiki/Edsger_W._Dijkstra">Edsgar Dijkstra</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[It is the fate of manufactured goods to slowly and gently depreciate as they get old... but it is the fate of operating systems to become free - Neal Stephenson]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#66</link>
+        <pubDate>Thu, 23 Aug 2012 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["It is the fate of manufactured goods to slowly and gently depreciate as they get old... but it is the fate of operating systems to become free" - <a href="http://www.nealstephenson.com/">Neal Stephenson</a>]]></description>
+        <content:encoded><![CDATA["It is the fate of manufactured goods to slowly and gently depreciate as they get old... but it is the fate of operating systems to become free" - <a href="http://www.nealstephenson.com/">Neal Stephenson</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[To achieve great things, two things are needed: a plan and not quite enough time - Leonard Bernstein]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#64</link>
+        <pubDate>Wed, 04 Jul 2012 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["To achieve great things, two things are needed: a plan and not quite enough time" - <a href="http://thinkexist.com/quotation/to_achieve_great_things-two_things_are_needed-a/214657.html">Leonard Bernstein</a>]]></description>
+        <content:encoded><![CDATA["To achieve great things, two things are needed: a plan and not quite enough time" - <a href="http://thinkexist.com/quotation/to_achieve_great_things-two_things_are_needed-a/214657.html">Leonard Bernstein</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[...the idea is to try to give all of the information to
+help others to judge the value of your contribution; not just the
+information that leads to judgment in one particular direction or
+another. - Richard Feynman]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#63</link>
+        <pubDate>Mon, 18 Jun 2012 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["...the idea is to try to give all of the information to
+help others to judge the value of your contribution; not just the
+information that leads to judgment in one particular direction or
+another." - <a href="http://www.lhup.edu/~DSIMANEK/cargocul.htm">Richard Feynman</a>]]></description>
+        <content:encoded><![CDATA["...the idea is to try to give all of the information to
+help others to judge the value of your contribution; not just the
+information that leads to judgment in one particular direction or
+another." - <a href="http://www.lhup.edu/~DSIMANEK/cargocul.htm">Richard Feynman</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Any path that narrows future possibilities may become a lethal trap - The Spacing Guild Handbook]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#62</link>
+        <pubDate>Sun, 22 Apr 2012 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Any path that narrows future possibilities may become a lethal trap" - <a href="http://en.wikiquote.org/wiki/Dune">The Spacing Guild Handbook</a>]]></description>
+        <content:encoded><![CDATA["Any path that narrows future possibilities may become a lethal trap" - <a href="http://en.wikiquote.org/wiki/Dune">The Spacing Guild Handbook</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[I think there's something strangely musical about noise - Trent Reznor]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#59</link>
+        <pubDate>Sun, 01 Apr 2012 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["I think there's something strangely musical about noise" - <a href="http://en.wikipedia.org/wiki/Trent_Reznor">Trent Reznor</a>]]></description>
+        <content:encoded><![CDATA["I think there's something strangely musical about noise" - <a href="http://en.wikipedia.org/wiki/Trent_Reznor">Trent Reznor</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[It is not enough to have a good mind; the main thing is to use it well - Rene Descartes]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#60</link>
+        <pubDate>Sun, 01 Apr 2012 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["It is not enough to have a good mind; the main thing is to use it well" - <a href="http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes">Rene Descartes</a>]]></description>
+        <content:encoded><![CDATA["It is not enough to have a good mind; the main thing is to use it well" - <a href="http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes">Rene Descartes</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[The economy of human time is the next advantage of machinery in manufactures - Charles Babbage]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#61</link>
+        <pubDate>Sun, 01 Apr 2012 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["The economy of human time is the next advantage of machinery in manufactures" - <a href="http://en.wikipedia.org/wiki/Charles_Babbage">Charles Babbage</a>]]></description>
+        <content:encoded><![CDATA["The economy of human time is the next advantage of machinery in manufactures" - <a href="http://en.wikipedia.org/wiki/Charles_Babbage">Charles Babbage</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Let the beauty of what you love be what you do - Rumi]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#57</link>
+        <pubDate>Mon, 05 Mar 2012 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Let the beauty of what you love be what you do" - <a href="http://en.wikipedia.org/wiki/Rumi">Rumi</a>]]></description>
+        <content:encoded><![CDATA["Let the beauty of what you love be what you do" - <a href="http://en.wikipedia.org/wiki/Rumi">Rumi</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Collaborative production is simple: no one person can take credit for what gets created, and the project could not come into being without the participation of many - Clay Shirky]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#58</link>
+        <pubDate>Mon, 05 Mar 2012 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Collaborative production is simple: no one person can take credit for what gets created, and the project could not come into being without the participation of many" - <a href="http://en.wikipedia.org/wiki/Clay_Shirky">Clay Shirky</a>]]></description>
+        <content:encoded><![CDATA["Collaborative production is simple: no one person can take credit for what gets created, and the project could not come into being without the participation of many" - <a href="http://en.wikipedia.org/wiki/Clay_Shirky">Clay Shirky</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[A delayed game is eventually good, a bad game is bad forever - Shigeru Miyamoto]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#56</link>
+        <pubDate>Fri, 02 Mar 2012 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["A delayed game is eventually good, a bad game is bad forever" - <a href="http://en.wikipedia.org/wiki/Shigeru_Miyamoto">Shigeru Miyamoto</a>]]></description>
+        <content:encoded><![CDATA["A delayed game is eventually good, a bad game is bad forever" - <a href="http://en.wikipedia.org/wiki/Shigeru_Miyamoto">Shigeru Miyamoto</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[I am driven by two main philosophies, know more today about the world than I knew yesterday. And lessen the suffering of others. You'd be surprised how far that gets you - Neil deGrasse Tyson]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#55</link>
+        <pubDate>Thu, 01 Mar 2012 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["I am driven by two main philosophies, know more today about the world than I knew yesterday. And lessen the suffering of others. You'd be surprised how far that gets you" - <a href="http://en.wikipedia.org/wiki/Neil_deGrasse_Tyson">Neil deGrasse Tyson</a>]]></description>
+        <content:encoded><![CDATA["I am driven by two main philosophies, know more today about the world than I knew yesterday. And lessen the suffering of others. You'd be surprised how far that gets you" - <a href="http://en.wikipedia.org/wiki/Neil_deGrasse_Tyson">Neil deGrasse Tyson</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[To be successful, you have to have your heart in your business and your business in your heart - Thomas J. Watson]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#53</link>
+        <pubDate>Tue, 28 Feb 2012 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["To be successful, you have to have your heart in your business and your business in your heart" - <a href="http://en.wikipedia.org/wiki/Thomas_J._Watson">Thomas J. Watson</a>]]></description>
+        <content:encoded><![CDATA["To be successful, you have to have your heart in your business and your business in your heart" - <a href="http://en.wikipedia.org/wiki/Thomas_J._Watson">Thomas J. Watson</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Confusion and clutter are the failure of design, not the attributes of information - Edward Tufte]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#54</link>
+        <pubDate>Tue, 28 Feb 2012 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Confusion and clutter are the failure of design, not the attributes of information" - <a href="http://en.wikipedia.org/wiki/Edward_Tufte">Edward Tufte</a>]]></description>
+        <content:encoded><![CDATA["Confusion and clutter are the failure of design, not the attributes of information" - <a href="http://en.wikipedia.org/wiki/Edward_Tufte">Edward Tufte</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[A designer is an emerging synthesis of artist, inventor, mechanic, objective economist and evolutionary strategist - R. Buckminster Fuller]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#51</link>
+        <pubDate>Mon, 27 Feb 2012 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["A designer is an emerging synthesis of artist, inventor, mechanic, objective economist and evolutionary strategist" - <a href="http://en.wikipedia.org/wiki/Buckminster_Fuller">R. Buckminster Fuller</a>]]></description>
+        <content:encoded><![CDATA["A designer is an emerging synthesis of artist, inventor, mechanic, objective economist and evolutionary strategist" - <a href="http://en.wikipedia.org/wiki/Buckminster_Fuller">R. Buckminster Fuller</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[In order to change an existing paradigm you do not struggle to try and change the problematic model. You create a new model and make the old one obsolete - R. Buckminster Fuller]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#49</link>
+        <pubDate>Sun, 26 Feb 2012 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["In order to change an existing paradigm you do not struggle to try and change the problematic model. You create a new model and make the old one obsolete" - <a href="http://en.wikipedia.org/wiki/Buckminster_Fuller">R. Buckminster Fuller</a>]]></description>
+        <content:encoded><![CDATA["In order to change an existing paradigm you do not struggle to try and change the problematic model. You create a new model and make the old one obsolete" - <a href="http://en.wikipedia.org/wiki/Buckminster_Fuller">R. Buckminster Fuller</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[You just keep pushing. You just keep pushing. I made every mistake that could be made. But I just kept pushing - René Descartes]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#50</link>
+        <pubDate>Sun, 26 Feb 2012 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["You just keep pushing. You just keep pushing. I made every mistake that could be made. But I just kept pushing" - <a href="http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes">René Descartes</a>]]></description>
+        <content:encoded><![CDATA["You just keep pushing. You just keep pushing. I made every mistake that could be made. But I just kept pushing" - <a href="http://en.wikipedia.org/wiki/Ren%C3%A9_Descartes">René Descartes</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better - Edsger W. Dijkstra]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#47</link>
+        <pubDate>Fri, 24 Feb 2012 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better" - <a href="http://en.wikipedia.org/wiki/Edsger_W._Dijkstra">Edsger W. Dijkstra</a>]]></description>
+        <content:encoded><![CDATA["Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better" - <a href="http://en.wikipedia.org/wiki/Edsger_W._Dijkstra">Edsger W. Dijkstra</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[This is not the age of pamphleteers. It is the age of engineers. The spark-gap is mightier than the pen - Lancelot Hogben]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#48</link>
+        <pubDate>Fri, 24 Feb 2012 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["This is not the age of pamphleteers. It is the age of engineers. The spark-gap is mightier than the pen" - <a href="http://en.wikipedia.org/wiki/Lancelot_Hogben">Lancelot Hogben</a>]]></description>
+        <content:encoded><![CDATA["This is not the age of pamphleteers. It is the age of engineers. The spark-gap is mightier than the pen" - <a href="http://en.wikipedia.org/wiki/Lancelot_Hogben">Lancelot Hogben</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Human history becomes more and more a race between education and catastrophe - H. G. Wells]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#46</link>
+        <pubDate>Thu, 23 Feb 2012 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Human history becomes more and more a race between education and catastrophe" - <a href="http://en.wikipedia.org/wiki/H._G._Wells">H. G. Wells</a>]]></description>
+        <content:encoded><![CDATA["Human history becomes more and more a race between education and catastrophe" - <a href="http://en.wikipedia.org/wiki/H._G._Wells">H. G. Wells</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Art is I; science is we - Claude Bernard]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#43</link>
+        <pubDate>Mon, 20 Feb 2012 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Art is I; science is we" - <a href="http://en.wikipedia.org/wiki/Claude_Bernard">Claude Bernard</a>]]></description>
+        <content:encoded><![CDATA["Art is I; science is we" - <a href="http://en.wikipedia.org/wiki/Claude_Bernard">Claude Bernard</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[He who receives an idea from me receives it without lessening me, as he who lights his candle at mine receives light without darkening me - Thomas Jefferson]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#44</link>
+        <pubDate>Mon, 20 Feb 2012 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["He who receives an idea from me receives it without lessening me, as he who lights his candle at mine receives light without darkening me" - <a href="http://dangerousprototypes.com/2012/02/20/presidents-in-favor-of-open-source/">Thomas Jefferson</a>]]></description>
+        <content:encoded><![CDATA["He who receives an idea from me receives it without lessening me, as he who lights his candle at mine receives light without darkening me" - <a href="http://dangerousprototypes.com/2012/02/20/presidents-in-favor-of-open-source/">Thomas Jefferson</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road - Stewart Brand]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#45</link>
+        <pubDate>Mon, 20 Feb 2012 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road" - <a href="http://en.wikipedia.org/wiki/Stewart_Brand">Stewart Brand</a>]]></description>
+        <content:encoded><![CDATA["Once a new technology rolls over you, if you're not part of the steamroller, you're part of the road" - <a href="http://en.wikipedia.org/wiki/Stewart_Brand">Stewart Brand</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[I never am really satisfied that I understand anything; because, understand it well as I may, my comprehension can only be an infinitesimal fraction of all I want to understand - Ada Lovelace]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#42</link>
+        <pubDate>Sat, 18 Feb 2012 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["I never am really satisfied that I understand anything; because, understand it well as I may, my comprehension can only be an infinitesimal fraction of all I want to understand" - <a href="http://www.mookychick.co.uk/feminism-politics/feminist-icons/ada-lovelace.php">Ada Lovelace</a>]]></description>
+        <content:encoded><![CDATA["I never am really satisfied that I understand anything; because, understand it well as I may, my comprehension can only be an infinitesimal fraction of all I want to understand" - <a href="http://www.mookychick.co.uk/feminism-politics/feminist-icons/ada-lovelace.php">Ada Lovelace</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[People who are really serious about software should make their own hardware - Alan Kay]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#41</link>
+        <pubDate>Tue, 14 Feb 2012 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["People who are really serious about software should make their own hardware" - <a href="http://en.wikiquote.org/wiki/Alan_Kay">Alan Kay</a>]]></description>
+        <content:encoded><![CDATA["People who are really serious about software should make their own hardware" - <a href="http://en.wikiquote.org/wiki/Alan_Kay">Alan Kay</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time - Tom Cargill]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#40</link>
+        <pubDate>Sat, 03 Dec 2011 00:00:00 -0500</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time" - <a href="http://en.wikipedia.org/wiki/Ninety-ninety_rule">Tom Cargill</a>]]></description>
+        <content:encoded><![CDATA["The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time" - <a href="http://en.wikipedia.org/wiki/Ninety-ninety_rule">Tom Cargill</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Fashion is what seems beautiful now but looks ugly later; art can be ugly at first but it becomes beautiful later - Unknown]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#39</link>
+        <pubDate>Mon, 31 Oct 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Fashion is what seems beautiful now but looks ugly later; art can be ugly at first but it becomes beautiful later" - <a href="http://www.nytimes.com/2011/10/30/opinion/mona-simpsons-eulogy-for-steve-jobs.html?_r=1&pagewanted=all">Unknown</a>]]></description>
+        <content:encoded><![CDATA["Fashion is what seems beautiful now but looks ugly later; art can be ugly at first but it becomes beautiful later" - <a href="http://www.nytimes.com/2011/10/30/opinion/mona-simpsons-eulogy-for-steve-jobs.html?_r=1&pagewanted=all">Unknown</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[In the beginner’s mind there are many possibilities, in the expert’s mind there are few - Shunryu Suzuki]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#38</link>
+        <pubDate>Fri, 28 Oct 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["In the beginner’s mind there are many possibilities, in the expert’s mind there are few" - <a href="http://en.wikipedia.org/wiki/Shunryu_Suzuki">Shunryu Suzuki</a>]]></description>
+        <content:encoded><![CDATA["In the beginner’s mind there are many possibilities, in the expert’s mind there are few" - <a href="http://en.wikipedia.org/wiki/Shunryu_Suzuki">Shunryu Suzuki</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[We understand human mental processes only slightly better than a fish understands swimming - John McCarthy]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#37</link>
+        <pubDate>Tue, 25 Oct 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["We understand human mental processes only slightly better than a fish understands swimming" - <a href="http://en.wikiquote.org/wiki/John_McCarthy_%28computer_scientist%29">John McCarthy</a>]]></description>
+        <content:encoded><![CDATA["We understand human mental processes only slightly better than a fish understands swimming" - <a href="http://en.wikiquote.org/wiki/John_McCarthy_%28computer_scientist%29">John McCarthy</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Let us stand on each other’s shoulders, not each other’s toes - Dennis Allison]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#36</link>
+        <pubDate>Sun, 28 Aug 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Let us stand on each other’s shoulders, not each other’s toes" - <a href="http://en.wikipedia.org/wiki/Tiny_BASIC">Dennis Allison</a>]]></description>
+        <content:encoded><![CDATA["Let us stand on each other’s shoulders, not each other’s toes" - <a href="http://en.wikipedia.org/wiki/Tiny_BASIC">Dennis Allison</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[The best way to predict the future is to invent it - Alan Kay]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#35</link>
+        <pubDate>Thu, 25 Aug 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["The best way to predict the future is to invent it" - <a href="http://en.wikipedia.org/wiki/Alan_Kay">Alan Kay</a>]]></description>
+        <content:encoded><![CDATA["The best way to predict the future is to invent it" - <a href="http://en.wikipedia.org/wiki/Alan_Kay">Alan Kay</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Simplicity is the ultimate sophistication - Leonardo da Vinci]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#34</link>
+        <pubDate>Sun, 07 Aug 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Simplicity is the ultimate sophistication" - <a href="http://en.wikipedia.org/wiki/Leonardo_da_Vinci">Leonardo da Vinci</a>]]></description>
+        <content:encoded><![CDATA["Simplicity is the ultimate sophistication" - <a href="http://en.wikipedia.org/wiki/Leonardo_da_Vinci">Leonardo da Vinci</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[The cheapest, fastest, and most reliable components are those that aren't there - Gordon Bell]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#33</link>
+        <pubDate>Sat, 06 Aug 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["The cheapest, fastest, and most reliable components are those that aren't there" - <a href="http://en.wikipedia.org/wiki/Gordon_Bell">Gordon Bell</a>]]></description>
+        <content:encoded><![CDATA["The cheapest, fastest, and most reliable components are those that aren't there" - <a href="http://en.wikipedia.org/wiki/Gordon_Bell">Gordon Bell</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[A late game is only late until it ships. A bad game is bad until the end of time - Shigeru Miyamoto]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#32</link>
+        <pubDate>Fri, 05 Aug 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["A late game is only late until it ships. A bad game is bad until the end of time" - <a href="http://en.wikipedia.org/wiki/Shigeru_Miyamoto">Shigeru Miyamoto</a>]]></description>
+        <content:encoded><![CDATA["A late game is only late until it ships. A bad game is bad until the end of time" - <a href="http://en.wikipedia.org/wiki/Shigeru_Miyamoto">Shigeru Miyamoto</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Perfect is the enemy of good - Voltaire]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#31</link>
+        <pubDate>Fri, 29 Jul 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Perfect is the enemy of good" - <a href="http://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good">Voltaire</a>]]></description>
+        <content:encoded><![CDATA["Perfect is the enemy of good" - <a href="http://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good">Voltaire</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle - Steve Jobs]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#30</link>
+        <pubDate>Sun, 17 Jul 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle" - <a href="http://www.youtube.com/watch?v=UF8uR6Z6KLc">Steve Jobs</a>]]></description>
+        <content:encoded><![CDATA["The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle" - <a href="http://www.youtube.com/watch?v=UF8uR6Z6KLc">Steve Jobs</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[I'm an engineer. I see myself as a toolmaker and the musicians are my customers... They use my tools - Robert Moog ]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#29</link>
+        <pubDate>Mon, 04 Jul 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["I'm an engineer. I see myself as a toolmaker and the musicians are my customers... They use my tools" - <a href="http://en.wikipedia.org/wiki/Robert_Moog">Robert Moog </a>]]></description>
+        <content:encoded><![CDATA["I'm an engineer. I see myself as a toolmaker and the musicians are my customers... They use my tools" - <a href="http://en.wikipedia.org/wiki/Robert_Moog">Robert Moog </a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...' - Isaac Asimov]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#28</link>
+        <pubDate>Fri, 01 Jul 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'" - <a href="http://en.wikipedia.org/wiki/Isaac_Asimov">Isaac Asimov</a>]]></description>
+        <content:encoded><![CDATA["The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'" - <a href="http://en.wikipedia.org/wiki/Isaac_Asimov">Isaac Asimov</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[If I have seen further it is by standing on the shoulders of giants - Isaac Newton]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#26</link>
+        <pubDate>Thu, 09 Jun 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["If I have seen further it is by standing on the shoulders of giants" - <a href="http://en.wikipedia.org/wiki/Isaac_Newton">Isaac Newton</a>]]></description>
+        <content:encoded><![CDATA["If I have seen further it is by standing on the shoulders of giants" - <a href="http://en.wikipedia.org/wiki/Isaac_Newton">Isaac Newton</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[When you make a thing, a thing that is new, it is so complicated making it that it is bound to be ugly. But those that make it after you, they don’t have to worry about making it. And they can make it pretty, and so everybody can like it when others make it after you - Pablo Picasso]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#27</link>
+        <pubDate>Thu, 09 Jun 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["When you make a thing, a thing that is new, it is so complicated making it that it is bound to be ugly. But those that make it after you, they don’t have to worry about making it. And they can make it pretty, and so everybody can like it when others make it after you" - <a href="http://en.wikipedia.org/wiki/Pablo_Picasso">Pablo Picasso</a>]]></description>
+        <content:encoded><![CDATA["When you make a thing, a thing that is new, it is so complicated making it that it is bound to be ugly. But those that make it after you, they don’t have to worry about making it. And they can make it pretty, and so everybody can like it when others make it after you" - <a href="http://en.wikipedia.org/wiki/Pablo_Picasso">Pablo Picasso</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[It's only "work" if you'd rather be doing something else - Dean Kamen]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#25</link>
+        <pubDate>Wed, 18 May 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["It's only "work" if you'd rather be doing something else" - <a href="http://www.dekaresearch.com/founder.shtml">Dean Kamen</a>]]></description>
+        <content:encoded><![CDATA["It's only "work" if you'd rather be doing something else" - <a href="http://www.dekaresearch.com/founder.shtml">Dean Kamen</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[If A equals success, then the formula is A equals X plus Y plus Z. X is work. Y is play. Z is keep your mouth shut - Albert Einstein]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#24</link>
+        <pubDate>Fri, 13 May 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["If A equals success, then the formula is A equals X plus Y plus Z. X is work. Y is play. Z is keep your mouth shut" - <a href="http://en.wikipedia.org/wiki/Albert_Einstein">Albert Einstein</a>]]></description>
+        <content:encoded><![CDATA["If A equals success, then the formula is A equals X plus Y plus Z. X is work. Y is play. Z is keep your mouth shut" - <a href="http://en.wikipedia.org/wiki/Albert_Einstein">Albert Einstein</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[The nice thing about standards is that you have so many to choose from; furthermore, if you do not like any of them, you can just wait for next year's model - Andrew S. Tanenbaum]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#23</link>
+        <pubDate>Thu, 12 May 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["The nice thing about standards is that you have so many to choose from; furthermore, if you do not like any of them, you can just wait for next year's model" - <a href="http://en.wikipedia.org/wiki/Andrew_Tanenbaum">Andrew S. Tanenbaum</a>]]></description>
+        <content:encoded><![CDATA["The nice thing about standards is that you have so many to choose from; furthermore, if you do not like any of them, you can just wait for next year's model" - <a href="http://en.wikipedia.org/wiki/Andrew_Tanenbaum">Andrew S. Tanenbaum</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Failure is only the opportunity to begin again more intelligently - Henry Ford]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#21</link>
+        <pubDate>Thu, 05 May 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Failure is only the opportunity to begin again more intelligently" - <a href="http://en.wikipedia.org/wiki/Henry_Ford">Henry Ford</a>]]></description>
+        <content:encoded><![CDATA["Failure is only the opportunity to begin again more intelligently" - <a href="http://en.wikipedia.org/wiki/Henry_Ford">Henry Ford</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Do well by doing good - Benjamin Franklin]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#22</link>
+        <pubDate>Thu, 05 May 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Do well by doing good" - <a href="http://en.wikipedia.org/wiki/Benjamin_Franklin">Benjamin Franklin</a>]]></description>
+        <content:encoded><![CDATA["Do well by doing good" - <a href="http://en.wikipedia.org/wiki/Benjamin_Franklin">Benjamin Franklin</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Elegance is not a dispensable luxury but a quality that decides between success and failure - Edsger W. Dijkstra]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#20</link>
+        <pubDate>Wed, 04 May 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Elegance is not a dispensable luxury but a quality that decides between success and failure" - <a href="http://en.wikipedia.org/wiki/Edsger_W._Dijkstra">Edsger W. Dijkstra</a>]]></description>
+        <content:encoded><![CDATA["Elegance is not a dispensable luxury but a quality that decides between success and failure" - <a href="http://en.wikipedia.org/wiki/Edsger_W._Dijkstra">Edsger W. Dijkstra</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[The walls between art and engineering exist only in our minds - Theo Jansen]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#19</link>
+        <pubDate>Mon, 25 Apr 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["The walls between art and engineering exist only in our minds" - <a href="http://en.wikipedia.org/wiki/Theo_Jansen">Theo Jansen</a>]]></description>
+        <content:encoded><![CDATA["The walls between art and engineering exist only in our minds" - <a href="http://en.wikipedia.org/wiki/Theo_Jansen">Theo Jansen</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Don't worry about what anybody else is going to do… The best way to predict the future is to invent it. Really smart people with reasonable funding can do just about anything that doesn't violate too many of Newton's Laws! - Alan Kay]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#17</link>
+        <pubDate>Sun, 24 Apr 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Don't worry about what anybody else is going to do… The best way to predict the future is to invent it. Really smart people with reasonable funding can do just about anything that doesn't violate too many of Newton's Laws!" - <a href="http://www.smalltalk.org/alankay.html">Alan Kay</a>]]></description>
+        <content:encoded><![CDATA["Don't worry about what anybody else is going to do… The best way to predict the future is to invent it. Really smart people with reasonable funding can do just about anything that doesn't violate too many of Newton's Laws!" - <a href="http://www.smalltalk.org/alankay.html">Alan Kay</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Hardware eventually fails. Software eventually works - Michael Hartung]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#18</link>
+        <pubDate>Sun, 24 Apr 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Hardware eventually fails. Software eventually works" - <a href="http://www.ibm.com/ibm/greateribm/connections/connections_article40.shtml">Michael Hartung</a>]]></description>
+        <content:encoded><![CDATA["Hardware eventually fails. Software eventually works" - <a href="http://www.ibm.com/ibm/greateribm/connections/connections_article40.shtml">Michael Hartung</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Improvement makes straight roads: but the crooked roads without Improvement are roads of Genius - William Blake]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#16</link>
+        <pubDate>Mon, 18 Apr 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Improvement makes straight roads: but the crooked roads without Improvement are roads of Genius" - <a href="http://en.wikipedia.org/wiki/William_Blake">William Blake</a>]]></description>
+        <content:encoded><![CDATA["Improvement makes straight roads: but the crooked roads without Improvement are roads of Genius" - <a href="http://en.wikipedia.org/wiki/William_Blake">William Blake</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Scientists investigate that which already is; engineers create that which has never been - Albert Einstein]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#11</link>
+        <pubDate>Fri, 15 Apr 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Scientists investigate that which already is; engineers create that which has never been" - <a href="http://en.wikipedia.org/wiki/Albert_Einstein">Albert Einstein</a>]]></description>
+        <content:encoded><![CDATA["Scientists investigate that which already is; engineers create that which has never been" - <a href="http://en.wikipedia.org/wiki/Albert_Einstein">Albert Einstein</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[A good scientist is a person with original ideas. A good engineer is a person who makes a design that works with as few original ideas as possible. There are no prima donnas in engineering - Freeman Dyson]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#12</link>
+        <pubDate>Fri, 15 Apr 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["A good scientist is a person with original ideas. A good engineer is a person who makes a design that works with as few original ideas as possible. There are no prima donnas in engineering" - <a href="http://en.wikipedia.org/wiki/Freeman_Dyson">Freeman Dyson</a>]]></description>
+        <content:encoded><![CDATA["A good scientist is a person with original ideas. A good engineer is a person who makes a design that works with as few original ideas as possible. There are no prima donnas in engineering" - <a href="http://en.wikipedia.org/wiki/Freeman_Dyson">Freeman Dyson</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[What I cannot create, I do not understand - Richard Feynman]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#13</link>
+        <pubDate>Fri, 15 Apr 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["What I cannot create, I do not understand" - <a href="http://en.wikipedia.org/wiki/Richard_Feynman">Richard Feynman</a>]]></description>
+        <content:encoded><![CDATA["What I cannot create, I do not understand" - <a href="http://en.wikipedia.org/wiki/Richard_Feynman">Richard Feynman</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[You can't see it if you don't look at it - Dan McKenna]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#14</link>
+        <pubDate>Fri, 15 Apr 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["You can't see it if you don't look at it" - <a href="http://books.google.com/books?id=3kY4-HYLqh0C&pg=PA60&lpg=PA60&dq=%22you+can%27t+see+it+if+you+don%27t+look+at+it%22+mckenna&source=bl&ots=oqJNEw26vj&sig=GuUscuvkmfuNbbiA-KaNAmORWmI&hl=en&ei=rKOoTbiQF4q4tweIpNTdBw&sa=X&oi=book_result&ct=result&resnum=1&ve">Dan McKenna</a>]]></description>
+        <content:encoded><![CDATA["You can't see it if you don't look at it" - <a href="http://books.google.com/books?id=3kY4-HYLqh0C&pg=PA60&lpg=PA60&dq=%22you+can%27t+see+it+if+you+don%27t+look+at+it%22+mckenna&source=bl&ots=oqJNEw26vj&sig=GuUscuvkmfuNbbiA-KaNAmORWmI&hl=en&ei=rKOoTbiQF4q4tweIpNTdBw&sa=X&oi=book_result&ct=result&resnum=1&ve">Dan McKenna</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Calculation and reasoning, like weaving and ploughing, are work, not for
+human souls, but for clever combinations of iron and wood - Mary Boole]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#15</link>
+        <pubDate>Fri, 15 Apr 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Calculation and reasoning, like weaving and ploughing, are work, not for
+human souls, but for clever combinations of iron and wood" - <a href="http://books.google.com/books?oe=UTF-8&id=k7s0AAAAMAAJ&q=calculation#v=onepage&q=calculation&f=false">Mary Boole</a>]]></description>
+        <content:encoded><![CDATA["Calculation and reasoning, like weaving and ploughing, are work, not for
+human souls, but for clever combinations of iron and wood" - <a href="http://books.google.com/books?oe=UTF-8&id=k7s0AAAAMAAJ&q=calculation#v=onepage&q=calculation&f=false">Mary Boole</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[Premature optimization is the root of all evil - Donald Knuth]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#4</link>
+        <pubDate>Thu, 14 Apr 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["Premature optimization is the root of all evil" - <a href="http://en.wikipedia.org/wiki/Donald_Knuth">Donald Knuth</a>]]></description>
+        <content:encoded><![CDATA["Premature optimization is the root of all evil" - <a href="http://en.wikipedia.org/wiki/Donald_Knuth">Donald Knuth</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[It's easier to ask forgiveness than it is to get permission - Grace Hopper]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#10</link>
+        <pubDate>Thu, 14 Apr 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["It's easier to ask forgiveness than it is to get permission" - <a href="http://en.wikipedia.org/wiki/Grace_Hopper">Grace Hopper</a>]]></description>
+        <content:encoded><![CDATA["It's easier to ask forgiveness than it is to get permission" - <a href="http://en.wikipedia.org/wiki/Grace_Hopper">Grace Hopper</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[We are what we celebrate - Dean Kamen]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#2</link>
+        <pubDate>Wed, 13 Apr 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["We are what we celebrate" - <a href="http://en.wikipedia.org/wiki/Dean_Kamen">Dean Kamen</a>]]></description>
+        <content:encoded><![CDATA["We are what we celebrate" - <a href="http://en.wikipedia.org/wiki/Dean_Kamen">Dean Kamen</a>]]></content:encoded>
+    </item>
+<item>
+        <title><![CDATA[I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success - Nikola Tesla]]></title>
+        <link>http://www.adafruit.com/index.php?main_page=quotes#3</link>
+        <pubDate>Wed, 13 Apr 2011 00:00:00 -0400</pubDate>
+        <dc:creator>adafruit</dc:creator>
+        <category><![CDATA[quotes]]></category>
+        <description><![CDATA["I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success" - <a href="http://en.wikipedia.org/wiki/Nikola_Tesla">Nikola Tesla</a>]]></description>
+        <content:encoded><![CDATA["I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success" - <a href="http://en.wikipedia.org/wiki/Nikola_Tesla">Nikola Tesla</a>]]></content:encoded>
+    </item>
+</channel>
+</rss>
