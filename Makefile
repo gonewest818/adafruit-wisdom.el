@@ -15,8 +15,8 @@ version: .elpa
 	$(EMACS) $(BATCH) --version
 
 lint: .elpa
-	$(EMACS) $(BATCH) -f elisp-lint-files-batch $(ELS)
-	$(EMACS) $(BATCH) -f elisp-lint-files-batch \
+	$(EMACS) $(BATCH) -f lintel-files-batch $(ELS)
+	$(EMACS) $(BATCH) -f lintel-files-batch \
 	                  --no-byte-compile \
 	                  --no-package-format \
 	                  --no-checkdoc $(TESTS)
@@ -35,3 +35,4 @@ clean:
 
 cleanelpa: clean
 	rm -rf .emacs/elpa .emacs/quelpa .emacs/.emacs-custom.el .elpa
+
