@@ -15,8 +15,8 @@ version: .elpa
 	$(EMACS) $(BATCH) --version
 
 lint: .elpa
-	$(EMACS) $(BATCH) -f lintel-files-batch $(ELS)
-	$(EMACS) $(BATCH) -f lintel-files-batch \
+	$(EMACS) $(BATCH) -f elisp-lint-files-batch $(ELS)
+	$(EMACS) $(BATCH) -f elisp-lint-files-batch \
 	                  --no-byte-compile \
 	                  --no-package-format \
 	                  --no-checkdoc $(TESTS)
