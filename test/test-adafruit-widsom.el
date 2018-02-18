@@ -1,6 +1,6 @@
 ;;; test-adafruit-wisdom.el --- unit tests
 
-(require 'undercover-init)
+(load-file "test/undercover-init.el")
 (require 'adafruit-wisdom)
 
 ;; DISABLED

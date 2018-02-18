@@ -16,9 +16,10 @@
 (when (file-readable-p custom-file) (load custom-file))
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;; Set load-path to include this project
+;; Set load-path to include the .el files for the project under development,
+;; which reside in the parent of `user-emacs-directory'.  Adding this path
+;; permits tests to require this package itself.
 (add-to-list 'load-path (expand-file-name ".." user-emacs-directory))
-(add-to-list 'load-path (expand-file-name "../test" user-emacs-directory))
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Configure melpa and melpa-stable

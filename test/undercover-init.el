@@ -1,11 +1,10 @@
 ;;; undercover-init.el --- setup undercover
 
-(require 'undercover)
+;; `load-file` this into any other file containing tests
 
-(undercover "*.el"
-            (:report-file "coverage.json")
-            (:send-report nil))
-
-(provide 'undercover-init)
+(when (require 'undercover nil t)
+  (undercover "*.el"
+              (:report-file "coverage.json")
+              (:send-report nil)))
 
 ;;; undercover-init.el ends here
