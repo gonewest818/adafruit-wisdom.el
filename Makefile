@@ -16,9 +16,10 @@ version: .elpa
 
 lint: .elpa
 	$(EMACS) $(BATCH) -f elisp-lint-files-batch $(ELS)
-	$(EMACS) $(BATCH) -f elisp-lint-files-batch \
+	$(EMACS) $(BATCH) -L test/ -f elisp-lint-files-batch \
 	                  --no-byte-compile \
 	                  --no-package-format \
+	                  --no-check-declare \
 	                  --no-checkdoc $(TESTS)
 
 test: .elpa
@@ -34,5 +35,5 @@ clean:
 	rm -f $(OBJECTS) coverage.json
 
 cleanelpa: clean
-	rm -rf .emacs/elpa .emacs/quelpa .emacs/.emacs-custom.el .elpa
+	rm -rf .emacs/elpa .emacs/quelpa .emacs/.emacs-custom.el* .elpa
 

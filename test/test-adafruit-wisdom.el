@@ -65,4 +65,4 @@
                                   (title nil "quote"))))))
     (expect (adafruit-wisdom-select) :to-equal "quote")))
 
-;;; test-adafruit-widsom.el ends here
+;;; test-adafruit-wisdom.el ends here
