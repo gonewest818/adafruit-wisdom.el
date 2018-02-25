@@ -2,8 +2,10 @@ export EMACS ?= emacs
 export BATCH = --batch -q -l .emacs/init.el
 
 ELS = $(wildcard *.el)
+LINT_ELS = $(filter-out adafruit-wisdom.el-autoloads.el,$(ELS))
 TESTS = $(wildcard test/*.el)
 OBJECTS = $(ELS:.el=.elc)
+BACKUPS = $(ELS:.el=.el~)
 
 .PHONY: version lint test clean cleanelpa
 
@@ -15,7 +17,7 @@ version: .elpa
 	$(EMACS) $(BATCH) --version
 
 lint: .elpa
-	$(EMACS) $(BATCH) -f elisp-lint-files-batch $(ELS)
+	$(EMACS) $(BATCH) -f elisp-lint-files-batch $(LINT_ELS)
 	$(EMACS) $(BATCH) -L test/ -f elisp-lint-files-batch \
 	                  --no-byte-compile \
 	                  --no-package-format \
@@ -32,8 +34,8 @@ submit-coverage: coverage.json
 	curl -s https://codecov.io/bash | bash -s - -f coverage.json
 
 clean:
-	rm -f $(OBJECTS) coverage.json
+	rm -f $(OBJECTS) $(BACKUPS) coverage.json
 
-cleanelpa: clean
+cleanall: clean
 	rm -rf .emacs/elpa .emacs/quelpa .emacs/.emacs-custom.el* .elpa
 
