@@ -11,4 +11,7 @@
   ;;:pin melpa-stable
   :ensure t)
 
+(use-package request
+  :ensure t)
+
 ;;; dependencies.el ends here

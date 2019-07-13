@@ -34,9 +34,10 @@
         (delete-file cache-file)))
 
     (it "fetches the url"
-      (spy-on 'url-insert-file-contents)
+      (spy-on 'request
+              :and-return-value (make-request-response :data "dummy body"))
       (let ((x (adafruit-wisdom-cached-get)))
-        (expect 'url-insert-file-contents :to-have-been-called))))
+        (expect 'request :to-have-been-called))))
 
   (describe "when cache file exists"
     :var (cache-file test-data)

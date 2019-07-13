@@ -4,7 +4,7 @@ version: 2.0
 default: &default-steps
   steps:
     - checkout
-    - run: make version
+    - run: make version || make version
     - run: make lint
     - run: make test
 
