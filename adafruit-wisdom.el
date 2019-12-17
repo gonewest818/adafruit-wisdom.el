@@ -54,10 +54,10 @@ Returns the parsed XML."
           (xml-parse-region (point-min) (point-max)))
       (with-temp-file cache
         (let ((resp (request adafruit-wisdom-quote-url
-                             :type "GET"
-                             :sync t
-                             :timeout 15
-                             :parser 'buffer-string)))
+                      :type "GET"
+                      :sync t
+                      :timeout 15
+                      :parser 'buffer-string)))
           (set-buffer-file-coding-system 'no-conversion)
           (insert (request-response-data resp))
           (xml-parse-region (point-min) (point-max)))))))
