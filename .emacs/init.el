@@ -51,17 +51,6 @@
     (package-install p)))
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;; Install `quelpa' and `quelpa-use-package'
-
-(use-package quelpa
-  ;; :pin melpa-stable
-  :ensure t)
-
-(use-package quelpa-use-package
-  ;; :pin melpa-stable
-  :ensure t)
-
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Load project dependencies from elsewhere
 
 (load (concat user-emacs-directory "dependencies.el"))

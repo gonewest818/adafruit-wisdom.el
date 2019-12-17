@@ -37,5 +37,5 @@ clean:
 	rm -f $(OBJECTS) $(BACKUPS) coverage.json
 
 cleanall: clean
-	rm -rf .emacs/elpa .emacs/quelpa .emacs/.emacs-custom.el* .elpa
+	rm -rf .emacs/elpa .emacs/.emacs-custom.el* .elpa
 
