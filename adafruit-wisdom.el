@@ -35,8 +35,16 @@
 (defconst adafruit-wisdom-quote-url "https://www.adafruit.com/feed/quotes.xml"
   "URL for the RSS quote feed served on adafruit.com.")
 
-(defconst adafruit-wisdom-cache-file "adafruit-wisdom.cache"
-  "Location for the local copy of the quotes file.")
+(defconst adafruit-wisdom-cache-file
+  (if (featurep 'no-littering)
+      (with-no-warnings
+        (require 'no-littering)
+        (no-littering-expand-var-file-name "adafruit-wisdom.cache"))
+    (locate-user-emacs-file "adafruit-wisdom.cache"))
+  "Location for the local copy of the quotes file.
+When `no-littering' is available put the cache file in the
+specified var directory.  Otherwise the default location for the
+cache file is `user-emacs-directory'.")
 
 (defconst adafruit-wisdom-cache-ttl (* 3600.0 24.0) ; 24 hours
   "Time-to-live for the local cache file.")
@@ -44,15 +52,14 @@
 (defun adafruit-wisdom-cached-get ()
   "Retrieves RSS from adafruit.com, or from cache if TTL hasn't expired.
 Returns the parsed XML."
-  (let* ((cache (locate-user-emacs-file adafruit-wisdom-cache-file))
-         (mtime (nth 5 (file-attributes cache)))
+  (let* ((mtime (nth 5 (file-attributes adafruit-wisdom-cache-file)))
          (age   (and mtime (- (float-time (current-time))
                               (float-time mtime)))))
     (if (and age (< age adafruit-wisdom-cache-ttl))
         (with-temp-buffer
-          (insert-file-contents cache)
+          (insert-file-contents adafruit-wisdom-cache-file)
           (xml-parse-region (point-min) (point-max)))
-      (with-temp-file cache
+      (with-temp-file adafruit-wisdom-cache-file
         (let ((resp (request adafruit-wisdom-quote-url
                       :type "GET"
                       :sync t
