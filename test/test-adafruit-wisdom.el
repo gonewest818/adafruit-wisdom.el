@@ -65,4 +65,10 @@
   (it "returns a quote at random"
     (expect (adafruit-wisdom-select) :to-equal "quote")))
 
+
+;; Local Variables:
+;; elisp-lint-ignored-validators:
+;; ("package-lint" "byte-compile" "check-declare" "checkdoc")
+;; End:
+
 ;;; test-adafruit-wisdom.el ends here

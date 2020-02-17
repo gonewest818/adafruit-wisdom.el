@@ -4,7 +4,7 @@
 ;; Version: 0.3.0
 ;; Keywords: games
 ;; URL: https://github.com/gonewest818/adafruit-wisdom.el
-;; Package-Requires: ((emacs "25") (request "0.3.1"))
+;; Package-Requires: ((emacs "25.1") (request "0.3.1"))
 
 ;; This program is free software: you can redistribute it and/or modify it
 ;; under the terms of the GNU General Public License as published by the

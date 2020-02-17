@@ -17,12 +17,7 @@ version: .elpa
 	$(EMACS) $(BATCH) --version
 
 lint: .elpa
-	$(EMACS) $(BATCH) -f elisp-lint-files-batch $(LINT_ELS)
-	$(EMACS) $(BATCH) -L test/ -f elisp-lint-files-batch \
-	                  --no-byte-compile \
-	                  --no-package-format \
-	                  --no-check-declare \
-	                  --no-checkdoc $(TESTS)
+	$(EMACS) $(BATCH) -f elisp-lint-files-batch $(LINT_ELS) $(TESTS)
 
 test: .elpa
 	$(EMACS) $(BATCH) -f buttercup-run-discover
@@ -34,7 +29,7 @@ submit-coverage: coverage.json
 	curl -s https://codecov.io/bash | bash -s - -f coverage.json
 
 clean:
-	rm -f $(OBJECTS) $(BACKUPS) coverage.json
+	rm -f $(OBJECTS) $(BACKUPS) adafruit-wisdom.el-autoloads.el *~ coverage.json
 
 cleanall: clean
 	rm -rf .emacs/elpa .emacs/.emacs-custom.el* .elpa
